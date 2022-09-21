@@ -1,0 +1,48 @@
+{
+  "request_id": "220618151207_0243ed2d-7eca-53e1-8b6a-fc7733cd1311",
+  "status": "pending",
+  "request": {
+    "source_credentials": "f760841e-21fe-425f-8dd9-d08e88e4e851",
+    "target_credentials": "e358cddc-2288-4da7-bb61-87f7203cee79",
+    "source_settings": {
+      "$schema": "https://s.dev.y42.dev/integrations/singer-google-sheets/0.0.0/source.json"
+    },
+    "table_settings": {
+      "$schema": "https://s.dev.y42.dev/integrations/singer-google-sheets/0.0.0/table",
+      "columns": [
+        "auto_detect"
+      ],
+      "import": "1kRcf7hjqJlGRJwZWS5ajTp3rL3up4yIjIpEp-8eqkLo/Cambridge_elevate_widget_data",
+      "_datos_write_settings": {
+        "max_flatten_depth": 0,
+        "decimals": false
+      }
+    },
+    "created_at": "2022-06-18T15:12:07.323631+00:00",
+    "target": {
+      "storage": {
+        "type": "githubapp",
+        "path": "/src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data",
+        "id": "6:1475cb08-028e-49db-b8e9-5171eb6b87af",
+        "branch": "main"
+      },
+      "info": {
+        "app_id": "24758422",
+        "owner": "ronozoro",
+        "repo": "git-data-mock-dev-cluster",
+        "commit_sha": "193af9a53a9d71223d122c8c3c448bf58d8ca442"
+      }
+    },
+    "context": {
+      "company_id": 6,
+      "company_slug": "y42-demo",
+      "triggered_by_type": "orchestration",
+      "triggered_by_id": "/src/Orchestrations/orchestration_trigger_test/.y42/run_220618151205_3e4e2f24-ebfd-5ebc-a9cc-b332596db0e8.json",
+      "trial": true
+    },
+    "previous_import_id": "220618145607_96355241-fe34-5df7-9fda-184ae94ded4a",
+    "previous_table_id": "220618145607_96355241-fe34-5df7-9fda-184ae94ded4a"
+  },
+  "created_at": "2022-06-18T15:12:07.323631+00:00",
+  "_signature": "+FLZ5ChbkmAEu4nzaDlI2r0ncA6ClzEij30USXr1gOPleZAtyfcjxs/kLKxCNBANH9qnAVdZtp8kjoXE7RHrBQ=="
+}

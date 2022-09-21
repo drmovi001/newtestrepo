@@ -1,0 +1,105 @@
+{
+  "request_id": "220618021607_0424171a-4476-578f-ac2f-03412f5a1ffb",
+  "status": "ready",
+  "request": {
+    "source_credentials": "f760841e-21fe-425f-8dd9-d08e88e4e851",
+    "target_credentials": "e358cddc-2288-4da7-bb61-87f7203cee79",
+    "source_settings": {
+      "$schema": "https://s.dev.y42.dev/integrations/singer-google-sheets/0.0.0/source.json"
+    },
+    "table_settings": {
+      "$schema": "https://s.dev.y42.dev/integrations/singer-google-sheets/0.0.0/table",
+      "columns": [
+        "auto_detect"
+      ],
+      "import": "1kRcf7hjqJlGRJwZWS5ajTp3rL3up4yIjIpEp-8eqkLo/Cambridge_elevate_widget_data",
+      "_datos_write_settings": {
+        "max_flatten_depth": 0,
+        "decimals": false
+      }
+    },
+    "created_at": "2022-06-18T02:16:07.188120+00:00",
+    "target": {
+      "storage": {
+        "type": "githubapp",
+        "path": "/src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data",
+        "id": "6:1475cb08-028e-49db-b8e9-5171eb6b87af",
+        "branch": "main"
+      },
+      "info": {
+        "app_id": "24758422",
+        "owner": "ronozoro",
+        "repo": "git-data-mock-dev-cluster",
+        "commit_sha": "98492d25a3938e254841cf7262dbf01ef00b51ad"
+      }
+    },
+    "context": {
+      "company_id": 6,
+      "company_slug": "y42-demo",
+      "triggered_by_type": "orchestration",
+      "triggered_by_id": "/src/Orchestrations/orchestration_trigger_test/.y42/run_220618021606_3e4e2f24-ebfd-5ebc-a9cc-b332596db0e8.json",
+      "trial": true
+    },
+    "previous_import_id": "220618020014_6662fd19-a12d-5953-9391-e2a005416de6",
+    "previous_table_id": "220618020014_6662fd19-a12d-5953-9391-e2a005416de6"
+  },
+  "created_at": "2022-06-18T02:16:07.188120+00:00",
+  "details": {
+    "invalid_rows": 0,
+    "export_finished_at": "2022-06-18T02:17:31.075360+00:00",
+    "write_disposition": "TRUNCATE",
+    "external_id": "8ac12704-7df7-41b5-9ed7-8cc2b59329ec",
+    "storage_file": "gs://gs-bucket-git-data-mock-dev-cluster/userUploads/v2/6/singer-google-sheets/a24b6d03-02f8-4073-8318-2b87457159cc",
+    "partial": false,
+    "import_finished_at": "2022-06-18T02:17:59.626676+00:00",
+    "row_count": 85041,
+    "current_import_row_count": 85041,
+    "size_in_bytes": 12445122,
+    "columns": [
+      {
+        "field_name": "book_id",
+        "data_type": "INTEGER",
+        "external_data_type": "INTEGER"
+      },
+      {
+        "field_name": "widget_id",
+        "data_type": "INTEGER",
+        "external_data_type": "INTEGER"
+      },
+      {
+        "field_name": "title",
+        "data_type": "STRING",
+        "external_data_type": "STRING"
+      },
+      {
+        "field_name": "widget_type",
+        "data_type": "STRING",
+        "external_data_type": "STRING"
+      },
+      {
+        "field_name": "isbn",
+        "data_type": "STRING",
+        "external_data_type": "STRING"
+      },
+      {
+        "field_name": "book_name",
+        "data_type": "STRING",
+        "external_data_type": "STRING"
+      },
+      {
+        "field_name": "created_at",
+        "data_type": "DATE",
+        "external_data_type": "DATE"
+      },
+      {
+        "field_name": "total_clicked",
+        "data_type": "INTEGER",
+        "external_data_type": "INTEGER"
+      }
+    ],
+    "table_name": "220618021607_0424171a-4476-578f-ac2f-03412f5a1ffb",
+    "external_url": "https://console.cloud.google.com/bigquery?p=datos-tech&d=bigquery_dataset_git_data_mock_dev_cluster&t=220618021607_0424171a-4476-578f-ac2f-03412f5a1ffb&page=table"
+  },
+  "finished_at": "2022-06-18T02:17:59.626780+00:00",
+  "_signature": "7ZH/iLm3iRiNwqltO2ZcMw9debRPjsWi0sIDK40DQkMtRPANXAUIbVbHWemlEdHe2YokGpIhK9tY+k6A6WsOCA=="
+}

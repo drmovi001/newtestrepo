@@ -1,0 +1,906 @@
+{
+  "$schema": "https://s.dev.y42.dev/frontend/0.0.0/visualization/visualization-widget-settings.json",
+  "chart_type": "bar_line_chart",
+  "settings": {
+    "series": [
+      {
+        "field_id": "4f593ce4_0cdb_473a_82fd_8328a674d19d",
+        "mark": "bar",
+        "stack_name": 1,
+        "label": {
+          "show": true,
+          "field_ids": [],
+          "rotate": 0,
+          "align": "center",
+          "verticalAlign": "top"
+        },
+        "tooltip": {
+          "show": true,
+          "field_ids": []
+        },
+        "show_right_axis": false,
+        "format": "inherit",
+        "cumulative": false,
+        "hidden": false
+      }
+    ],
+    "show_legend": true,
+    "axisPointer": {
+      "show": false,
+      "type": "line",
+      "lineStyle": {
+        "type": "solid",
+        "opacity": 1
+      }
+    },
+    "dimensions": [
+      "69bd322f_bdab_468a_b3f7_3077bf40e670"
+    ],
+    "breakdowns": [],
+    "series_on_y": true,
+    "serieAxis": {
+      "min": null,
+      "max": null,
+      "show": true,
+      "type": "value",
+      "axisName": {
+        "nameRotate": 0,
+        "nameGap": 10,
+        "nameLocation": "middle",
+        "nameTextStyle": {
+          "backgroundColor": "transparent",
+          "borderColor": "#f4f4fb",
+          "borderWidth": 0,
+          "fontSize": 12,
+          "align": "center",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+          "verticalAlign": "middle",
+          "fontFamily": "Arial",
+          "borderRadius": 0,
+          "padding": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "color": "#a7a7a7",
+          "colorTo": "#a7a7a7"
+        }
+      },
+      "axisLine": {
+        "showLabel": true,
+        "symbol": "none",
+        "lineStyle": {
+          "type": "solid",
+          "opacity": 1
+        }
+      },
+      "axisLabel": {
+        "backgroundColor": "transparent",
+        "borderColor": "#f4f4fb",
+        "borderWidth": 0,
+        "fontSize": 12,
+        "align": "right",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "verticalAlign": "middle",
+        "fontFamily": "Arial",
+        "borderRadius": 0,
+        "padding": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "show": true,
+        "rotate": 0,
+        "margin": 22,
+        "suffix": "",
+        "max_characters": null,
+        "value_conversion": "Automatic",
+        "date_format": "",
+        "value_format": "inherit"
+      },
+      "splitLine": {
+        "showLabel": false,
+        "lineStyle": {
+          "type": "solid",
+          "opacity": 1
+        }
+      },
+      "dataZoom": {
+        "show": false,
+        "start": 0,
+        "end": 100
+      }
+    },
+    "dimensionAxis": {
+      "min": null,
+      "max": null,
+      "show": true,
+      "type": "time",
+      "axisName": {
+        "nameRotate": 0,
+        "nameGap": 10,
+        "nameLocation": "middle",
+        "nameTextStyle": {
+          "backgroundColor": "transparent",
+          "borderColor": "#f4f4fb",
+          "borderWidth": 0,
+          "fontSize": 12,
+          "align": "center",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+          "verticalAlign": "middle",
+          "fontFamily": "Arial",
+          "borderRadius": 0,
+          "padding": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "color": "#a7a7a7",
+          "colorTo": "#a7a7a7"
+        }
+      },
+      "axisLine": {
+        "showLabel": true,
+        "symbol": "none",
+        "lineStyle": {
+          "type": "solid",
+          "opacity": 1
+        }
+      },
+      "axisLabel": {
+        "backgroundColor": "transparent",
+        "borderColor": "#f4f4fb",
+        "borderWidth": 0,
+        "fontSize": 12,
+        "align": "center",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "verticalAlign": "middle",
+        "fontFamily": "Arial",
+        "borderRadius": 0,
+        "padding": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "show": true,
+        "rotate": 0,
+        "margin": 22,
+        "suffix": "",
+        "max_characters": null,
+        "value_conversion": "Automatic",
+        "date_format": "",
+        "value_format": "inherit"
+      },
+      "splitLine": {
+        "showLabel": false,
+        "lineStyle": {
+          "type": "solid",
+          "opacity": 1
+        }
+      },
+      "dataZoom": {
+        "show": false,
+        "start": 0,
+        "end": 100
+      }
+    },
+    "show_stack_by": false,
+    "show_stack_by_100_percent": false,
+    "sort": {
+      "order": "NONE",
+      "sort_by": "SERIES",
+      "sortByField": true,
+      "fieldSortKey": null,
+      "stackNameSortKey": null
+    },
+    "show_total_for_stacks": [],
+    "datasource_table_path": "src/Integrations/datos_d_mysql/test_pk",
+    "chart_type": "bar_line_chart",
+    "filters": [],
+    "fields": [
+      {
+        "field": "order_date_date__calculated_field__",
+        "aggregation": "QUARTER_YEAR",
+        "type": "DATE",
+        "alias": "QUARTER_YEAR_order_date_date__calculated_field___69bd322f_bdab_468a_b3f7_3077bf40e670",
+        "id": "69bd322f_bdab_468a_b3f7_3077bf40e670",
+        "lowCodeString": "PARSE_DATE(@order_date, \"MM/DD/YYYY\")",
+        "functionTree": {
+          "type": "Program",
+          "body": [
+            {
+              "type": "ExpressionStatement",
+              "expression": {
+                "type": "CallExpression",
+                "callee": {
+                  "type": "Identifier",
+                  "name": "PARSE_DATE",
+                  "range": [
+                    0,
+                    10
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 1,
+                      "column": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 10
+                    }
+                  }
+                },
+                "arguments": [
+                  {
+                    "type": "Identifier",
+                    "name": "@order_date",
+                    "range": [
+                      11,
+                      22
+                    ],
+                    "loc": {
+                      "start": {
+                        "line": 1,
+                        "column": 11
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 22
+                      }
+                    }
+                  },
+                  {
+                    "type": "Literal",
+                    "raw": "\"MM/DD/YYYY\"",
+                    "value": "MM/DD/YYYY",
+                    "range": [
+                      24,
+                      36
+                    ],
+                    "loc": {
+                      "start": {
+                        "line": 1,
+                        "column": 24
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 36
+                      }
+                    }
+                  }
+                ],
+                "optional": false,
+                "range": [
+                  0,
+                  37
+                ],
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 37
+                  }
+                }
+              },
+              "range": [
+                0,
+                37
+              ],
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 37
+                }
+              }
+            }
+          ],
+          "sourceType": "script",
+          "range": [
+            0,
+            37
+          ],
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 37
+            }
+          },
+          "tokens": [
+            {
+              "type": "Identifier",
+              "value": "PARSE_DATE",
+              "range": [
+                0,
+                10
+              ],
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 10
+                }
+              }
+            },
+            {
+              "type": "Punctuator",
+              "value": "(",
+              "range": [
+                10,
+                11
+              ],
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 10
+                },
+                "end": {
+                  "line": 1,
+                  "column": 11
+                }
+              }
+            },
+            {
+              "type": "Identifier",
+              "value": "@order_date",
+              "range": [
+                11,
+                22
+              ],
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 11
+                },
+                "end": {
+                  "line": 1,
+                  "column": 22
+                }
+              }
+            },
+            {
+              "type": "Punctuator",
+              "value": ",",
+              "range": [
+                22,
+                23
+              ],
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 22
+                },
+                "end": {
+                  "line": 1,
+                  "column": 23
+                }
+              }
+            },
+            {
+              "type": "String",
+              "value": "\"MM/DD/YYYY\"",
+              "range": [
+                24,
+                36
+              ],
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 24
+                },
+                "end": {
+                  "line": 1,
+                  "column": 36
+                }
+              }
+            },
+            {
+              "type": "Punctuator",
+              "value": ")",
+              "range": [
+                36,
+                37
+              ],
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 36
+                },
+                "end": {
+                  "line": 1,
+                  "column": 37
+                }
+              }
+            }
+          ],
+          "comments": []
+        },
+        "show_in_percentage": false,
+        "filters": []
+      },
+      {
+        "field": "units_sold",
+        "aggregation": "SUM",
+        "type": "INTEGER",
+        "alias": "SUM_units_sold_bbf7e8a2_0a05_42c7_a6b1_8498c1495386",
+        "id": "bbf7e8a2_0a05_42c7_a6b1_8498c1495386",
+        "lowCodeString": null,
+        "functionTree": null,
+        "show_in_percentage": false,
+        "filters": []
+      }
+    ],
+    "settings": {
+      "series": [
+        {
+          "field_id": "bbf7e8a2_0a05_42c7_a6b1_8498c1495386",
+          "mark": "bar",
+          "stack_name": 1,
+          "label": {
+            "show": true,
+            "field_ids": [],
+            "rotate": 0,
+            "align": "center",
+            "verticalAlign": "top"
+          },
+          "tooltip": {
+            "show": true,
+            "field_ids": []
+          },
+          "show_right_axis": false,
+          "format": "inherit",
+          "cumulative": false,
+          "hidden": false
+        }
+      ],
+      "show_legend": true,
+      "axisPointer": {
+        "show": false,
+        "type": "line",
+        "lineStyle": {
+          "type": "solid",
+          "opacity": 1
+        }
+      },
+      "dimensions": [
+        "69bd322f_bdab_468a_b3f7_3077bf40e670"
+      ],
+      "breakdowns": [],
+      "series_on_y": true,
+      "serieAxis": {
+        "min": null,
+        "max": null,
+        "show": true,
+        "type": "value",
+        "axisName": {
+          "nameRotate": 0,
+          "nameGap": 10,
+          "nameLocation": "middle",
+          "nameTextStyle": {
+            "backgroundColor": "transparent",
+            "borderColor": "#f4f4fb",
+            "borderWidth": 0,
+            "fontSize": 12,
+            "align": "center",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+            "verticalAlign": "middle",
+            "fontFamily": "Arial",
+            "borderRadius": 0,
+            "padding": [
+              2,
+              2,
+              2,
+              2
+            ],
+            "color": "#a7a7a7",
+            "colorTo": "#a7a7a7"
+          }
+        },
+        "axisLine": {
+          "showLabel": true,
+          "symbol": "none",
+          "lineStyle": {
+            "type": "solid",
+            "opacity": 1
+          }
+        },
+        "axisLabel": {
+          "backgroundColor": "transparent",
+          "borderColor": "#f4f4fb",
+          "borderWidth": 0,
+          "fontSize": 12,
+          "align": "right",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+          "verticalAlign": "middle",
+          "fontFamily": "Arial",
+          "borderRadius": 0,
+          "padding": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "show": true,
+          "rotate": 0,
+          "margin": 22,
+          "suffix": "",
+          "max_characters": null,
+          "value_conversion": "Automatic",
+          "date_format": "",
+          "value_format": "inherit"
+        },
+        "splitLine": {
+          "showLabel": false,
+          "lineStyle": {
+            "type": "solid",
+            "opacity": 1
+          }
+        },
+        "dataZoom": {
+          "show": false,
+          "start": 0,
+          "end": 100
+        }
+      },
+      "dimensionAxis": {
+        "min": null,
+        "max": null,
+        "show": true,
+        "type": "time",
+        "axisName": {
+          "nameRotate": 0,
+          "nameGap": 10,
+          "nameLocation": "middle",
+          "nameTextStyle": {
+            "backgroundColor": "transparent",
+            "borderColor": "#f4f4fb",
+            "borderWidth": 0,
+            "fontSize": 12,
+            "align": "center",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+            "verticalAlign": "middle",
+            "fontFamily": "Arial",
+            "borderRadius": 0,
+            "padding": [
+              2,
+              2,
+              2,
+              2
+            ],
+            "color": "#a7a7a7",
+            "colorTo": "#a7a7a7"
+          }
+        },
+        "axisLine": {
+          "showLabel": true,
+          "symbol": "none",
+          "lineStyle": {
+            "type": "solid",
+            "opacity": 1
+          }
+        },
+        "axisLabel": {
+          "backgroundColor": "transparent",
+          "borderColor": "#f4f4fb",
+          "borderWidth": 0,
+          "fontSize": 12,
+          "align": "center",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+          "verticalAlign": "middle",
+          "fontFamily": "Arial",
+          "borderRadius": 0,
+          "padding": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "show": true,
+          "rotate": 0,
+          "margin": 22,
+          "suffix": "",
+          "max_characters": null,
+          "value_conversion": "Automatic",
+          "date_format": "",
+          "value_format": "inherit"
+        },
+        "splitLine": {
+          "showLabel": false,
+          "lineStyle": {
+            "type": "solid",
+            "opacity": 1
+          }
+        },
+        "dataZoom": {
+          "show": false,
+          "start": 0,
+          "end": 100
+        }
+      },
+      "show_stack_by": false,
+      "show_stack_by_100_percent": false,
+      "conditional_formatting_rules": [],
+      "sort": {
+        "order": "NONE",
+        "sort_by": "SERIES",
+        "sortByField": true,
+        "fieldSortKey": null,
+        "stackNameSortKey": null
+      },
+      "show_total_for_stacks": []
+    }
+  },
+  "datasource_table_path": "src/Integrations/datos_d_mysql/test_pk",
+  "filters": [],
+  "fields": [
+    {
+      "field": "order_date_date__calculated_field__",
+      "aggregation": "QUARTER_YEAR",
+      "type": "DATE",
+      "alias": "QUARTER_YEAR_order_date_date__calculated_field___69bd322f_bdab_468a_b3f7_3077bf40e670",
+      "id": "69bd322f_bdab_468a_b3f7_3077bf40e670",
+      "lowCodeString": "PARSE_DATE(@order_date, \"MM/DD/YYYY\")",
+      "functionTree": {
+        "type": "Program",
+        "body": [
+          {
+            "type": "ExpressionStatement",
+            "expression": {
+              "type": "CallExpression",
+              "callee": {
+                "type": "Identifier",
+                "name": "PARSE_DATE",
+                "range": [
+                  0,
+                  10
+                ],
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 10
+                  }
+                }
+              },
+              "arguments": [
+                {
+                  "type": "Identifier",
+                  "name": "@order_date",
+                  "range": [
+                    11,
+                    22
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 1,
+                      "column": 11
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 22
+                    }
+                  }
+                },
+                {
+                  "type": "Literal",
+                  "raw": "\"MM/DD/YYYY\"",
+                  "value": "MM/DD/YYYY",
+                  "range": [
+                    24,
+                    36
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 1,
+                      "column": 24
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 36
+                    }
+                  }
+                }
+              ],
+              "optional": false,
+              "range": [
+                0,
+                37
+              ],
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 37
+                }
+              }
+            },
+            "range": [
+              0,
+              37
+            ],
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 0
+              },
+              "end": {
+                "line": 1,
+                "column": 37
+              }
+            }
+          }
+        ],
+        "sourceType": "script",
+        "range": [
+          0,
+          37
+        ],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0
+          },
+          "end": {
+            "line": 1,
+            "column": 37
+          }
+        },
+        "tokens": [
+          {
+            "type": "Identifier",
+            "value": "PARSE_DATE",
+            "range": [
+              0,
+              10
+            ],
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 0
+              },
+              "end": {
+                "line": 1,
+                "column": 10
+              }
+            }
+          },
+          {
+            "type": "Punctuator",
+            "value": "(",
+            "range": [
+              10,
+              11
+            ],
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 10
+              },
+              "end": {
+                "line": 1,
+                "column": 11
+              }
+            }
+          },
+          {
+            "type": "Identifier",
+            "value": "@order_date",
+            "range": [
+              11,
+              22
+            ],
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 11
+              },
+              "end": {
+                "line": 1,
+                "column": 22
+              }
+            }
+          },
+          {
+            "type": "Punctuator",
+            "value": ",",
+            "range": [
+              22,
+              23
+            ],
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 22
+              },
+              "end": {
+                "line": 1,
+                "column": 23
+              }
+            }
+          },
+          {
+            "type": "String",
+            "value": "\"MM/DD/YYYY\"",
+            "range": [
+              24,
+              36
+            ],
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 24
+              },
+              "end": {
+                "line": 1,
+                "column": 36
+              }
+            }
+          },
+          {
+            "type": "Punctuator",
+            "value": ")",
+            "range": [
+              36,
+              37
+            ],
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 36
+              },
+              "end": {
+                "line": 1,
+                "column": 37
+              }
+            }
+          }
+        ],
+        "comments": []
+      },
+      "show_in_percentage": false,
+      "filters": []
+    },
+    {
+      "field": "unit_cost",
+      "aggregation": "SUM",
+      "type": "FLOAT",
+      "alias": "SUM_unit_cost_4f593ce4_0cdb_473a_82fd_8328a674d19d",
+      "id": "4f593ce4_0cdb_473a_82fd_8328a674d19d",
+      "lowCodeString": null,
+      "functionTree": null,
+      "show_in_percentage": false,
+      "filters": []
+    }
+  ]
+}

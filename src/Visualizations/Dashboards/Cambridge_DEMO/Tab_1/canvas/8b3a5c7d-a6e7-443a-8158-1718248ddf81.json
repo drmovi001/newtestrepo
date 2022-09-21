@@ -1,0 +1,80 @@
+{
+  "$schema": "https://s.dev.y42.dev/frontend/0.0.0/visualization/visualization-canvas-element.json",
+  "type": "Filter",
+  "position": {
+    "x": -2166.990734850954,
+    "y": -5070.64453125
+  },
+  "size": {
+    "height": 112.95315551757812,
+    "width": 501.8968627806414
+  },
+  "zIndex": 0,
+  "layer": "default",
+  "angle": 0,
+  "typeSettings": {
+    "filterPath": "src/Visualizations/Filters/3b13f925-b15e-479d-a0a5-f7207db44d4e.json",
+    "filter": {
+      "featureType": "Visualization-Filters",
+      "$name": "3b13f925-b15e-479d-a0a5-f7207db44d4e.json",
+      "$path": "src/Visualizations/Filters/3b13f925-b15e-479d-a0a5-f7207db44d4e.json",
+      "$parentFolders": [],
+      "$schema": "https://s.dev.y42.dev/frontend/0.0.0/core/y42-metadata.json",
+      "name": "3b13f925-b15e-479d-a0a5-f7207db44d4e.json",
+      "description": "",
+      "tags": [],
+      "owners": [],
+      "experts": [],
+      "watchers": [],
+      "asset_status": "no status",
+      "settings": {
+        "$schema": "https://s.dev.y42.dev/frontend/0.0.0/visualization/visualization-filter-settings.json",
+        "datasource_table_path": "src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data",
+        "field_name": "isbn",
+        "data_type": "STRING",
+        "type": "advanced",
+        "operations": [
+          {
+            "operator": "is_not_empty",
+            "values": [],
+            "operator_type": "absolute",
+            "value_type": "NONE"
+          }
+        ],
+        "options": {}
+      },
+      "type": "multiselect",
+      "datasource_table_path": "src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data",
+      "field_name": "isbn",
+      "data_type": "STRING",
+      "operations": [],
+      "options": [
+        "9781316640524",
+        "9781108455879",
+        "9781108702799",
+        "9781108702775",
+        "9781108702812",
+        "9781108749329",
+        "9781108438940",
+        "9781108610568",
+        "9781108610605",
+        "9781108716031"
+      ]
+    }
+  },
+  "styles": {
+    "background-color": "#ffffff00",
+    "border-color": "#f2f2f200",
+    "border-style": "solid",
+    "border-width": "1px",
+    "border-radius": "0",
+    "filter": "drop-shadow(0px 0px 0px #939393)"
+  },
+  "locked": false,
+  "objectProperties": {
+    "resizable": true,
+    "movable": true,
+    "selectable": true,
+    "rotatable": true
+  }
+}

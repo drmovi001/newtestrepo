@@ -1,0 +1,59 @@
+{
+  "$schema": "https://storage.googleapis.com/y42-dev-json-schema/frontend/0.0.0/visualization/visualization-filter-settings.json",
+  "datasource_table_path": "src/Integrations/datos_d_mysql/test_pk",
+  "field_name": "region",
+  "data_type": "STRING",
+  "type": "multiselect",
+  "operations": [
+    {
+      "operator": "=",
+      "values": [
+        "Europe"
+      ],
+      "operator_type": "absolute",
+      "value_type": "NONE"
+    },
+    {
+      "operator": "=",
+      "values": [
+        "Sub-Saharan Africa"
+      ],
+      "operator_type": "absolute",
+      "value_type": "NONE"
+    },
+    {
+      "operator": "=",
+      "values": [
+        "Central America and the Caribbean"
+      ],
+      "operator_type": "absolute",
+      "value_type": "NONE"
+    },
+    {
+      "operator": "=",
+      "values": [
+        "Australia and Oceania"
+      ],
+      "operator_type": "absolute",
+      "value_type": "NONE"
+    },
+    {
+      "operator": "=",
+      "values": [
+        "North America"
+      ],
+      "operator_type": "absolute",
+      "value_type": "NONE"
+    }
+  ],
+  "options": [
+    "Europe",
+    "Sub-Saharan Africa",
+    "Middle East and North Africa",
+    "Asia",
+    "Central America and the Caribbean",
+    "Australia and Oceania",
+    "North America",
+    "sub-shar"
+  ]
+}

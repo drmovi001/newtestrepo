@@ -1,0 +1,17 @@
+{
+  "cronExpression": "0/25 * 1/1 * *",
+  "forceSchedule": false,
+  "linkDataArray": [],
+  "nodeDataArray": [
+    {
+      "key": "b6c2c588-387c-4c66-bb09-4ad584270cf6",
+      "path": "src/Integrations/test_excel/excel-spreadsheet-examples-for-students.xlsx",
+      "location": "0 0",
+      "onFailure": "stop",
+      "nodeConfig": {
+        "incremental": true
+      }
+    }
+  ],
+  "visualDataArray": []
+}

@@ -1,0 +1,200 @@
+{
+  "$schema": "https://s.dev.y42.dev/frontend/0.0.0/visualization/visualization-widget-settings.json",
+  "chart_type": "cohort_table",
+  "settings": {
+    "series": [
+      {
+        "field_id": "9bf40bed_e391_450f_8899_1ab06056474a",
+        "type": null,
+        "header_name": "ga_users",
+        "renderer": "default",
+        "cellSettings": {
+          "backgroundColor": "transparent",
+          "borderColor": "#000000",
+          "borderWidth": 1,
+          "fontSize": 12,
+          "align": "center",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+          "verticalAlign": "middle",
+          "fontFamily": "Arial",
+          "borderRadius": 0,
+          "padding": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "color": "#a7a7a7",
+          "colorTo": "#a7a7a7",
+          "borderPosition": "noneBorder",
+          "wordBreak": "keepAll",
+          "activeStyles": false
+        },
+        "cellTypesSettings": {
+          "barSettings": {
+            "max": 0,
+            "displayPercent": false,
+            "diffColumn": [
+              "none"
+            ]
+          },
+          "imageSettings": {
+            "width": 50,
+            "height": 50
+          },
+          "distributionSettings": {
+            "type": "bar"
+          }
+        },
+        "format": "inherit",
+        "showAggregationText": true,
+        "sort": "asc"
+      }
+    ],
+    "dimensions": [
+      {
+        "field_id": "7bd00127_1d89_49a4_b106_56f24ce4d42d",
+        "type": null,
+        "header_name": null,
+        "renderer": "default",
+        "cellSettings": {
+          "backgroundColor": "transparent",
+          "borderColor": "#000000",
+          "borderWidth": 1,
+          "fontSize": 12,
+          "align": "center",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+          "verticalAlign": "middle",
+          "fontFamily": "Arial",
+          "borderRadius": 0,
+          "padding": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "color": "#a7a7a7",
+          "colorTo": "#a7a7a7",
+          "borderPosition": "noneBorder",
+          "wordBreak": "keepAll",
+          "activeStyles": false
+        },
+        "cellTypesSettings": {
+          "barSettings": {
+            "max": 0,
+            "displayPercent": false,
+            "diffColumn": [
+              "none"
+            ]
+          },
+          "imageSettings": {
+            "width": 50,
+            "height": 50
+          },
+          "distributionSettings": {
+            "type": "bar"
+          }
+        },
+        "format": "inherit",
+        "showAggregationText": true,
+        "sort": "asc"
+      }
+    ],
+    "breakdowns": [
+      {
+        "field_id": "f296c9e5_4164_4369_af38_c25ac79b5390",
+        "type": null,
+        "header_name": null,
+        "renderer": "default",
+        "cellSettings": {
+          "backgroundColor": "transparent",
+          "borderColor": "#000000",
+          "borderWidth": 1,
+          "fontSize": 12,
+          "align": "center",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+          "verticalAlign": "middle",
+          "fontFamily": "Arial",
+          "borderRadius": 0,
+          "padding": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "color": "#a7a7a7",
+          "colorTo": "#a7a7a7",
+          "borderPosition": "noneBorder",
+          "wordBreak": "keepAll",
+          "activeStyles": false
+        },
+        "cellTypesSettings": {
+          "barSettings": {
+            "max": 0,
+            "displayPercent": false,
+            "diffColumn": [
+              "none"
+            ]
+          },
+          "imageSettings": {
+            "width": 50,
+            "height": 50
+          },
+          "distributionSettings": {
+            "type": "bar"
+          }
+        },
+        "format": "inherit",
+        "showAggregationText": true,
+        "sort": "asc"
+      }
+    ],
+    "showInPercentage": true,
+    "showFooterTotal": true,
+    "cohortColors": [
+      "#62BE7B",
+      "#F8696B"
+    ],
+    "twoColorCutPoint": 0
+  },
+  "datasource_table_path": "src/Integrations/hung_s_test_source/traffic_sources",
+  "filters": [],
+  "fields": [
+    {
+      "field": "ga_date",
+      "aggregation": "MONTH_YEAR",
+      "type": "DATE",
+      "alias": "MONTH_YEAR_ga_date_f296c9e5_4164_4369_af38_c25ac79b5390",
+      "id": "f296c9e5_4164_4369_af38_c25ac79b5390",
+      "lowCodeString": null,
+      "functionTree": null,
+      "show_in_percentage": false,
+      "filters": []
+    },
+    {
+      "field": "ga_users",
+      "aggregation": "VALUE",
+      "type": "INTEGER",
+      "alias": "VALUE_ga_users_7bd00127_1d89_49a4_b106_56f24ce4d42d",
+      "id": "7bd00127_1d89_49a4_b106_56f24ce4d42d",
+      "lowCodeString": null,
+      "functionTree": null,
+      "show_in_percentage": false,
+      "filters": []
+    },
+    {
+      "field": "ga_users",
+      "aggregation": "COUNT",
+      "type": "INTEGER",
+      "alias": "COUNT_ga_users_9bf40bed_e391_450f_8899_1ab06056474a",
+      "id": "9bf40bed_e391_450f_8899_1ab06056474a",
+      "lowCodeString": null,
+      "functionTree": null,
+      "show_in_percentage": false,
+      "filters": []
+    }
+  ]
+}

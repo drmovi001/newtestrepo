@@ -1,0 +1,142 @@
+{
+  "request_id": "220613053253_0ec4f887-c8c8-5368-b14d-99c9964c92da",
+  "status": "ready",
+  "request": {
+    "target_credentials": "e358cddc-2288-4da7-bb61-87f7203cee79",
+    "source_settings": {
+      "$schema": "https://s.y42.com/integrations/sql_model/0.0.0/source"
+    },
+    "table_settings": {
+      "$schema": "https://s.y42.com/integrations/sql_model/0.0.0/table"
+    },
+    "created_at": "2022-06-13T05:32:53.133251+00:00",
+    "target": {
+      "storage": {
+        "type": "githubapp",
+        "path": "/src/Models/SQL/meta_fix_sql/table_1",
+        "id": "6:1475cb08-028e-49db-b8e9-5171eb6b87af",
+        "branch": "main"
+      },
+      "info": {
+        "app_id": "24758422",
+        "owner": "ronozoro",
+        "repo": "git-data-mock-dev-cluster",
+        "commit_sha": "c8e4b1b2189cbd895400de802bf58aab91ecd731"
+      }
+    },
+    "context": {
+      "company_id": 6,
+      "company_slug": "y42-demo",
+      "triggered_by_type": "orchestration",
+      "triggered_by_id": "/src/Orchestrations/new_orchestration/.y42/run_220613053014_1293734e-78ed-5188-b6de-23daad8aa3ac.json",
+      "trial": true
+    },
+    "previous_import_id": "220613050253_8cad2d99-40c2-53dd-b24a-16ab054c9c41",
+    "previous_table_id": "059f5e8a0da74aceacd6626d291c03f1"
+  },
+  "created_at": "2022-06-13T05:32:53.133251+00:00",
+  "finished_at": "2022-06-13T05:33:05.102652+00:00",
+  "details": {
+    "invalid_rows": 0,
+    "import_finished_at": "2022-06-13T05:33:05.102523+00:00",
+    "row_count": 100,
+    "current_import_row_count": 100,
+    "size_in_bytes": 13425,
+    "external_id": "20d63962-e2f1-48dc-873b-f58e89e074ac",
+    "columns": [
+      {
+        "field_name": "order_id",
+        "data_type": "INTEGER",
+        "external_data_type": "INTEGER"
+      },
+      {
+        "field_name": "ship_date",
+        "data_type": "STRING",
+        "external_data_type": "STRING"
+      },
+      {
+        "field_name": "item",
+        "data_type": "STRING",
+        "external_data_type": "STRING"
+      },
+      {
+        "field_name": "sales_channel",
+        "data_type": "STRING",
+        "external_data_type": "STRING"
+      },
+      {
+        "field_name": "order_priority",
+        "data_type": "STRING",
+        "external_data_type": "STRING"
+      },
+      {
+        "field_name": "total_revenue",
+        "data_type": "FLOAT",
+        "external_data_type": "FLOAT"
+      },
+      {
+        "field_name": "country",
+        "data_type": "STRING",
+        "external_data_type": "STRING"
+      },
+      {
+        "field_name": "total_profit",
+        "data_type": "FLOAT",
+        "external_data_type": "FLOAT"
+      },
+      {
+        "field_name": "sdc_extracted_at",
+        "data_type": "FLOAT",
+        "external_data_type": "FLOAT"
+      },
+      {
+        "field_name": "unit_price",
+        "data_type": "FLOAT",
+        "external_data_type": "FLOAT"
+      },
+      {
+        "field_name": "unit_cost",
+        "data_type": "FLOAT",
+        "external_data_type": "FLOAT"
+      },
+      {
+        "field_name": "units_sold",
+        "data_type": "INTEGER",
+        "external_data_type": "INTEGER"
+      },
+      {
+        "field_name": "region",
+        "data_type": "STRING",
+        "external_data_type": "STRING"
+      },
+      {
+        "field_name": "total_cost",
+        "data_type": "FLOAT",
+        "external_data_type": "FLOAT"
+      },
+      {
+        "field_name": "id",
+        "data_type": "INTEGER",
+        "external_data_type": "INTEGER"
+      },
+      {
+        "field_name": "sdc_deleted_at",
+        "data_type": "TIMESTAMP",
+        "external_data_type": "TIMESTAMP"
+      },
+      {
+        "field_name": "type",
+        "data_type": "STRING",
+        "external_data_type": "STRING"
+      },
+      {
+        "field_name": "order_date",
+        "data_type": "STRING",
+        "external_data_type": "STRING"
+      }
+    ],
+    "table_name": "fa5dc41442138663934a8e1306a71e99",
+    "external_url": "https://console.cloud.google.com/bigquery?p=datos-tech&d=bigquery_dataset_git_data_mock_dev_cluster&t=fa5dc41442138663934a8e1306a71e99&page=table"
+  },
+  "_signature": "8TBEnkGCpwkl6rMRB7uVsZxCPf3xZ2B2Ew5jp58nZS3ED7i0xs2OU382jqKbF/rDlisa5MKFb5QNw7+jIzBECQ=="
+}

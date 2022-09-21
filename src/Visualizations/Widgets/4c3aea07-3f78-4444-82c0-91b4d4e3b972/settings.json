@@ -1,0 +1,64 @@
+{
+  "$schema": "https://s.dev.y42.dev/frontend/0.0.0/visualization/visualization-widget-settings.json",
+  "chart_type": "treemap_chart",
+  "settings": {
+    "series": [
+      {
+        "field_id": "c0b1c4e2_c8db_45d0_8fde_7a1452a19def",
+        "format": "inherit"
+      }
+    ],
+    "show_legend": true,
+    "axisPointer": {
+      "show": false,
+      "type": "line",
+      "lineStyle": {
+        "type": "solid",
+        "opacity": 1
+      }
+    },
+    "dimensions": [
+      "c6872f1a_28ba_430d_96b3_44831052d764"
+    ],
+    "breakdowns": [
+      "027275d9_4086_441a_ab36_a1ff39627ce1"
+    ]
+  },
+  "datasource_table_path": "src/Integrations/datos_d_mysql/test_pk",
+  "filters": [],
+  "fields": [
+    {
+      "field": "region",
+      "aggregation": "VALUE",
+      "type": "STRING",
+      "alias": "VALUE_region_c6872f1a_28ba_430d_96b3_44831052d764",
+      "id": "c6872f1a_28ba_430d_96b3_44831052d764",
+      "lowCodeString": null,
+      "functionTree": null,
+      "show_in_percentage": false,
+      "filters": []
+    },
+    {
+      "field": "unit_price",
+      "aggregation": "SUM",
+      "type": "FLOAT",
+      "alias": "SUM_unit_price_c0b1c4e2_c8db_45d0_8fde_7a1452a19def",
+      "id": "c0b1c4e2_c8db_45d0_8fde_7a1452a19def",
+      "lowCodeString": null,
+      "functionTree": null,
+      "show_in_percentage": false,
+      "filters": []
+    },
+    {
+      "field": "sales_channel",
+      "aggregation": "VALUE",
+      "type": "STRING",
+      "alias": "VALUE_sales_channel_027275d9_4086_441a_ab36_a1ff39627ce1",
+      "id": "027275d9_4086_441a_ab36_a1ff39627ce1",
+      "lowCodeString": null,
+      "functionTree": null,
+      "show_in_percentage": false,
+      "filters": []
+    }
+  ]
+}

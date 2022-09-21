@@ -1,0 +1,8 @@
+{
+  "$schema": "https://s.dev.y42.dev/frontend/0.0.0/visualization/visualization-dashboard-settings.json",
+  "theme": "Cambridge_DEMO-226f9e0b-f510-433e-93ca-dd13551460fc.json",
+  "order": [
+    "src/Visualizations/Dashboards/Cambridge_DEMO/Tab_1"
+  ],
+  "last_used_datasource_table_path": "src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data"
+}

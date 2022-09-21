@@ -1,0 +1,40 @@
+{
+  "$schema": "https://s.dev.y42.dev/frontend/0.0.0/visualization/visualization-canvas-element.json",
+  "type": "Text",
+  "position": {
+    "x": -2128.6137084960938,
+    "y": -4812.653911425498
+  },
+  "size": {
+    "width": 376,
+    "height": 50
+  },
+  "zIndex": 0,
+  "layer": "default",
+  "angle": 0,
+  "typeSettings": {
+    "textStyles": {
+      "font-weight": "normal",
+      "font-size": "32px",
+      "font-family": "Arial",
+      "text-align": "left",
+      "color": "#000"
+    },
+    "text": "WIDGET ENGAGEMENT"
+  },
+  "styles": {
+    "background-color": "none",
+    "border-color": "none",
+    "border-style": "none",
+    "border-width": "0",
+    "border-radius": "0",
+    "filter": "drop-shadow(0px 0px 0px #939393)"
+  },
+  "locked": false,
+  "objectProperties": {
+    "resizable": false,
+    "movable": true,
+    "selectable": true,
+    "rotatable": true
+  }
+}

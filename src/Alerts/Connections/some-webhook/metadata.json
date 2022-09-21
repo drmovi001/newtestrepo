@@ -1,0 +1,6 @@
+{
+  "$schema": "https://google.com",
+  "name": "some webhook",
+  "description": "some description",
+  "tags": []
+}

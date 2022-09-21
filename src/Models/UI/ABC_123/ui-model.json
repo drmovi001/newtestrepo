@@ -1,0 +1,55 @@
+{
+  "nodeDataArray": [
+    {
+      "key": "d26a45c3-22e6-434b-aaf3-b7b60e31513a",
+      "type": "INPUT",
+      "category": "INPUT",
+      "transformationStep": {
+        "id": "d26a45c3-22e6-434b-aaf3-b7b60e31513a",
+        "title": "src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data",
+        "transformationType": "INPUT",
+        "datasourceName": "Cambridge_demo_data_sheets",
+        "transformObject": {
+          "source": "src/Integrations/Cambridge_demo_data_sheets",
+          "table": "src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data",
+          "lang": ""
+        }
+      },
+      "isGroup": true,
+      "group": "",
+      "location": "-525.2941176470588 -244.57142857142856"
+    },
+    {
+      "key": "099a772a-e7a3-42ad-905b-cc5f090a903d",
+      "type": "GROUP_BY",
+      "category": "GROUP_BY",
+      "transformationStep": {
+        "id": "099a772a-e7a3-42ad-905b-cc5f090a903d",
+        "title": "",
+        "transformationType": "GROUP_BY",
+        "transformObject": {
+          "columns": [
+            {
+              "name": "book_id",
+              "alias": "widget_id",
+              "func": "SUM"
+            }
+          ],
+          "groupBy": [
+            "book_id"
+          ]
+        }
+      },
+      "isGroup": true,
+      "group": "",
+      "location": "-246.70588235294116 -238.20408163265307"
+    }
+  ],
+  "linkDataArray": [
+    {
+      "from": "d26a45c3-22e6-434b-aaf3-b7b60e31513a",
+      "to": "099a772a-e7a3-42ad-905b-cc5f090a903d"
+    }
+  ],
+  "$schema": "https://s.dev.y42.dev/integrations/ui_model/0.0.0/model.json"
+}

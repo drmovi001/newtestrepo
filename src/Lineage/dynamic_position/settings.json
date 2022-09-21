@@ -1,0 +1,3474 @@
+{
+  "linkDataArray": [
+    {
+      "from": "src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data",
+      "to": "src/Models/UI/NEW_UI/new_ui"
+    },
+    {
+      "from": "src/Models/UI/another_odel/another_odel",
+      "to": "src/Models/UI/another_model_2/another_model_2"
+    },
+    {
+      "from": "src/Models/UI/Hung_s_new_UI_model/hung_s_new_ui_model",
+      "to": "src/Models/UI/another_odel/another_odel"
+    },
+    {
+      "from": "src/Integrations/test_braulio/Chat-Sheet1",
+      "to": "src/Models/UI/another_one/another_one"
+    },
+    {
+      "from": "src/Integrations/test_excel/excel-spreadsheet-examples-for-students.xlsx",
+      "to": "src/Models/UI/boolean_function_node_test/boolean_function_node_test"
+    },
+    {
+      "from": "src/Integrations/ClickUp/tasks",
+      "to": "src/Models/UI/en_test_10/en_test_10"
+    },
+    {
+      "from": "src/Integrations/ClickUp/tasks",
+      "to": "src/Models/UI/en_test_10/en_test_10_1"
+    },
+    {
+      "from": "src/Integrations/ClickUp/tasks",
+      "to": "src/Models/UI/en_test_10/en_test_10_2"
+    },
+    {
+      "from": "src/Integrations/test_excel/excel-spreadsheet-examples-for-students.xlsx",
+      "to": "src/Models/UI/med_end/med_end"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Models/UI/meta_fix_ui/meta_fix_ui"
+    },
+    {
+      "from": "src/Integrations/new_amplitude_1/ActiveUserCounts",
+      "to": "src/Models/UI/my_model_26/my_model_26"
+    },
+    {
+      "from": "src/Integrations/ClickUp/goals",
+      "to": "src/Models/UI/new_schema_ui_model/table1"
+    },
+    {
+      "from": "src/Integrations/ClickUp/goals",
+      "to": "src/Models/UI/new_schema_ui_model/table2"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/member",
+      "to": "src/Models/UI/test1/test1_2"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/member",
+      "to": "src/Models/UI/test1/test1_3"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/member",
+      "to": "src/Models/UI/test1/test2"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Models/UI/test1/test2"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/member",
+      "to": "src/Models/UI/test1/test_status_table"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Models/UI/test1/test_status_table"
+    },
+    {
+      "from": "src/Integrations/ClickUp/goals",
+      "to": "src/Models/SQL/NEW_SQL/table_1"
+    },
+    {
+      "from": "src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data",
+      "to": "src/Models/SQL/SQL_mod/table_1"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Models/SQL/meta_fix_sql/table_1"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Models/SQL/meta_fix_sql/table_2"
+    },
+    {
+      "from": "src/Integrations/ClickUp",
+      "to": "src/Models/SQL/new_schema_sql_model/table_1"
+    },
+    {
+      "from": "src/Integrations/ClickUp/goals",
+      "to": "src/Models/SQL/new_schema_sql_model/table_3"
+    },
+    {
+      "from": "src/Integrations/hung_s_test_source/traffic_sources",
+      "to": "src/Visualizations/Widgets/2f52abfd-3636-4ae2-b1bf-4aa0eb44f3bb"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/3ed6c896-e1ff-4467-a818-7873fd374262"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/4c3aea07-3f78-4444-82c0-91b4d4e3b972"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/4c3aea07_3f78_4444_82c0_91b4d4e3b972___Copy"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/4d61dcb9-a832-4def-9cd2-9259d61d3d1b"
+    },
+    {
+      "from": "src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data",
+      "to": "src/Visualizations/Widgets/5aac40e3-92bf-453e-92d1-a2407ba623b1"
+    },
+    {
+      "from": "src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data",
+      "to": "src/Visualizations/Widgets/6328eed9-d656-40dc-afbf-4abafa716a9a"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/65a49d4c-aad9-4078-9fdc-ba50712075d6"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/65a49d4c_aad9_4078_9fdc_ba50712075d6___Copy"
+    },
+    {
+      "from": "src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data",
+      "to": "src/Visualizations/Widgets/6a4c7d94-127c-4c49-bced-21c99ffba6bf"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/6f23fa7b-911c-457b-a902-4e1640f5cd6c"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/6f23fa7b_911c_457b_a902_4e1640f5cd6c___Copy"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/703792c4-3255-4d48-b27b-f99f9c761213"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/703792c4_3255_4d48_b27b_f99f9c761213___Copy"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/7baebfdf-c3f0-4c4f-b207-1f0521460bdb"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/7baebfdf_c3f0_4c4f_b207_1f0521460bdb___Copy"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/7ecc7614-b0b2-4f7d-8fa3-8511655e6e0f"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/7ecc7614_b0b2_4f7d_8fa3_8511655e6e0f___Copy"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/8988d038-1bfd-4ba0-b978-f51338b6835d"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/8988d038_1bfd_4ba0_b978_f51338b6835d___Copy"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/9a4a086d-5890-4ca0-9b32-502755d6d90b"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/Adding a title to see if it works"
+    },
+    {
+      "from": "src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data",
+      "to": "src/Visualizations/Widgets/ISBN"
+    },
+    {
+      "from": "src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data",
+      "to": "src/Visualizations/Widgets/Widget_Interactions_by_Type"
+    },
+    {
+      "from": "src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data",
+      "to": "src/Visualizations/Widgets/Widget_Interactions_per_Month__by_Type"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/ab73ad94-41b8-40f4-aea6-005dfce95661"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/ab73ad94_41b8_40f4_aea6_005dfce95661___Copy"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/b9553ae0-658b-4787-92bf-c3e7dbc0722d"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/b9553ae0_658b_4787_92bf_c3e7dbc0722d___Copy"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/c89d4219-ff02-4167-9d8d-c9434568c3bf"
+    },
+    {
+      "from": "src/Integrations/ClickUp/tasks",
+      "to": "src/Visualizations/Widgets/cc51f78e-cada-448c-ad57-1b79d1c6c01d"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/d9795ea1-8b17-4131-bb5b-4697889d2d01"
+    },
+    {
+      "from": "src/Integrations/hung_s_test_source/traffic_sources",
+      "to": "src/Visualizations/Widgets/d9795ea1_8b17_4131_bb5b_4697889d2d01___Copy"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/eeced678-5b40-4364-8131-04f043496477"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/eeced678_5b40_4364_8131_04f043496477___Copy"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/fd9b4f3b-77c4-474e-a7ff-0bcee75ad7c0"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Visualizations/Widgets/fd9b4f3b_77c4_474e_a7ff_0bcee75ad7c0___Copy"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/member",
+      "to": "src/Visualizations/Widgets/widget_created_from_list_view"
+    },
+    {
+      "from": "src/Visualizations/Widgets/5aac40e3-92bf-453e-92d1-a2407ba623b1",
+      "to": "src/Visualizations/Dashboards/Cambridge_DEMO/Tab_1"
+    },
+    {
+      "from": "src/Visualizations/Widgets/Widget_Interactions_by_Type",
+      "to": "src/Visualizations/Dashboards/Cambridge_DEMO/Tab_1"
+    },
+    {
+      "from": "src/Visualizations/Widgets/Widget_Interactions_per_Month__by_Type",
+      "to": "src/Visualizations/Dashboards/Cambridge_DEMO/Tab_1"
+    },
+    {
+      "from": "src/Visualizations/Widgets/6a4c7d94-127c-4c49-bced-21c99ffba6bf",
+      "to": "src/Visualizations/Dashboards/Cambridge_DEMO/Tab_1"
+    },
+    {
+      "from": "src/Visualizations/Widgets/6328eed9-d656-40dc-afbf-4abafa716a9a",
+      "to": "src/Visualizations/Dashboards/Cambridge_DEMO/Tab_1"
+    },
+    {
+      "from": "src/Visualizations/Widgets/cc51f78e-cada-448c-ad57-1b79d1c6c01d",
+      "to": "src/Visualizations/Dashboards/EU_Sales/Tab_1"
+    },
+    {
+      "from": "src/Visualizations/Widgets/d9795ea1-8b17-4131-bb5b-4697889d2d01",
+      "to": "src/Visualizations/Dashboards/Falcon_Dashboard/Showcase"
+    },
+    {
+      "from": "src/Visualizations/Widgets/703792c4-3255-4d48-b27b-f99f9c761213",
+      "to": "src/Visualizations/Dashboards/Falcon_Dashboard/Showcase"
+    },
+    {
+      "from": "src/Visualizations/Widgets/7baebfdf-c3f0-4c4f-b207-1f0521460bdb",
+      "to": "src/Visualizations/Dashboards/Falcon_Dashboard/Showcase"
+    },
+    {
+      "from": "src/Visualizations/Widgets/7ecc7614-b0b2-4f7d-8fa3-8511655e6e0f",
+      "to": "src/Visualizations/Dashboards/Falcon_Dashboard/Showcase"
+    },
+    {
+      "from": "src/Visualizations/Widgets/4c3aea07-3f78-4444-82c0-91b4d4e3b972",
+      "to": "src/Visualizations/Dashboards/Falcon_Dashboard/Showcase"
+    },
+    {
+      "from": "src/Visualizations/Widgets/ab73ad94-41b8-40f4-aea6-005dfce95661",
+      "to": "src/Visualizations/Dashboards/Falcon_Dashboard/Showcase"
+    },
+    {
+      "from": "src/Visualizations/Widgets/65a49d4c-aad9-4078-9fdc-ba50712075d6",
+      "to": "src/Visualizations/Dashboards/Falcon_Dashboard/Showcase"
+    },
+    {
+      "from": "src/Visualizations/Widgets/d9795ea1-8b17-4131-bb5b-4697889d2d01",
+      "to": "src/Visualizations/Dashboards/Falcon_Dashboard/Online_vs_Offline"
+    },
+    {
+      "from": "src/Visualizations/Widgets/2f52abfd-3636-4ae2-b1bf-4aa0eb44f3bb",
+      "to": "src/Visualizations/Dashboards/Falcon_Dashboard/Deep_Dive__copy_"
+    },
+    {
+      "from": "src/Visualizations/Widgets/Adding a title to see if it works",
+      "to": "src/Visualizations/Dashboards/new/Tab_1"
+    },
+    {
+      "to": "src/Visualizations/Dashboards/new/Tab_1"
+    },
+    {
+      "from": "src/Visualizations/Widgets/4c3aea07-3f78-4444-82c0-91b4d4e3b972",
+      "to": "src/Visualizations/Dashboards/new/Tab_1"
+    },
+    {
+      "from": "src/Visualizations/Widgets/eeced678-5b40-4364-8131-04f043496477",
+      "to": "src/Visualizations/Dashboards/new/Snowflake_Test"
+    },
+    {
+      "from": "src/Visualizations/Widgets/3ed6c896-e1ff-4467-a818-7873fd374262",
+      "to": "src/Visualizations/Dashboards/new/Snowflake_Test"
+    },
+    {
+      "from": "src/Visualizations/Widgets/b9553ae0-658b-4787-92bf-c3e7dbc0722d",
+      "to": "src/Visualizations/Dashboards/new/Snowflake_Test"
+    },
+    {
+      "from": "src/Visualizations/Widgets/b9553ae0_658b_4787_92bf_c3e7dbc0722d___Copy",
+      "to": "src/Visualizations/Dashboards/new/Snowflake_Test"
+    },
+    {
+      "from": "src/Visualizations/Widgets/fd9b4f3b-77c4-474e-a7ff-0bcee75ad7c0",
+      "to": "src/Visualizations/Dashboards/new/Snowflake_Test"
+    },
+    {
+      "to": "src/Visualizations/Dashboards/new/Snowflake_Test"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/member",
+      "to": "src/Exports/bigquery_test/datos_d_mysql___member"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/test_pk",
+      "to": "src/Exports/bigquery_test/datos_d_mysql___test_pk"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/member",
+      "to": "src/Exports/csv_export/datos_d_mysql___member"
+    },
+    {
+      "from": "src/Integrations/test_braulio/Chat-Sheet1",
+      "to": "src/Exports/csv_export/test_braulio___Chat_Sheet1"
+    },
+    {
+      "from": "src/Integrations/datos_d_mysql/member",
+      "to": "src/Exports/csv_test/datos_d_mysql___member"
+    },
+    {
+      "from": "/src/Integrations/first_google_ads/ad_groups",
+      "to": "src/Exports/csv_test/first_google_ads___ad_groups"
+    },
+    {
+      "from": "src/Integrations/test_braulio/Chat-Sheet1",
+      "to": "src/Exports/google_sheet_test/test_braulio___Chat_Sheet1"
+    },
+    {
+      "from": "src/Integrations/first_google_ads/ad_groups",
+      "to": "src/Exports/xlsx_test/first_google_ads___ad_groups"
+    },
+    {
+      "from": "src/Integrations/test_braulio/Chat-Sheet1",
+      "to": "src/Exports/xlsx_test/test_braulio___Chat_Sheet1"
+    }
+  ],
+  "nodeDataArray": [
+    {
+      "key": "src/Integrations/1231",
+      "category": "Integration",
+      "location": "12 51",
+      "isGroup": true
+    },
+    {
+      "key": "238495c8-b65b-47a0-887f-1b40da5267f3",
+      "category": "Empty",
+      "group": "src/Integrations/1231"
+    },
+    {
+      "key": "src/Integrations/1Ddn8SzNjvX25BYAA18Y_FSlEWnvls_ED",
+      "category": "Integration",
+      "location": "12 113",
+      "isGroup": true
+    },
+    {
+      "key": "0374ccd6-d050-4493-94b7-4573a74f8a65",
+      "category": "Empty",
+      "group": "src/Integrations/1Ddn8SzNjvX25BYAA18Y_FSlEWnvls_ED"
+    },
+    {
+      "key": "src/Integrations/Cambridge_demo_data",
+      "category": "Integration",
+      "location": "12 175",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/Cambridge_demo_data/fc8a4036-7f2e-4018-b159-9956e2ad330f-widget_prod-000000000000 (2).csv",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/Cambridge_demo_data"
+    },
+    {
+      "key": "src/Integrations/Cambridge_demo_data/fc8a4036-7f2e-4018-b159-9956e2ad330f-widget_prod-000000000000.csv",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/Cambridge_demo_data"
+    },
+    {
+      "key": "src/Integrations/Cambridge_demo_data_sheets",
+      "category": "Integration",
+      "location": "12 489",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/Cambridge_demo_data_sheets/Cambridge_elevate_widget_data-Cambridge_elevate_widget_data",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/Cambridge_demo_data_sheets"
+    },
+    {
+      "key": "src/Integrations/Chargify",
+      "category": "Integration",
+      "location": "12 803",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/Chargify/components",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/Chargify"
+    },
+    {
+      "key": "src/Integrations/Chargify/components_price_points",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/Chargify"
+    },
+    {
+      "key": "src/Integrations/Chargify/coupons",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/Chargify"
+    },
+    {
+      "key": "src/Integrations/Chargify/customers",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/Chargify"
+    },
+    {
+      "key": "src/Integrations/Chargify/product_families",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/Chargify"
+    },
+    {
+      "key": "src/Integrations/Chargify/products",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/Chargify"
+    },
+    {
+      "key": "src/Integrations/Chargify/statements",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/Chargify"
+    },
+    {
+      "key": "src/Integrations/Chargify/subscriptions",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/Chargify"
+    },
+    {
+      "key": "src/Integrations/Chargify/subscriptions_components",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/Chargify"
+    },
+    {
+      "key": "src/Integrations/Chargify/transactions",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/Chargify"
+    },
+    {
+      "key": "src/Integrations/ClickUp",
+      "category": "Integration",
+      "location": "12 937",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/ClickUp/folders",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/ClickUp"
+    },
+    {
+      "key": "src/Integrations/ClickUp/goals",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/ClickUp"
+    },
+    {
+      "key": "src/Integrations/ClickUp/tasks",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/ClickUp"
+    },
+    {
+      "key": "src/Integrations/Hubspot",
+      "category": "Integration",
+      "location": "12 1071",
+      "isGroup": true
+    },
+    {
+      "key": "170462e9-32f9-4ede-a052-b973ca293bd1",
+      "category": "Empty",
+      "group": "src/Integrations/Hubspot"
+    },
+    {
+      "key": "src/Integrations/Intercom2",
+      "category": "Integration",
+      "location": "12 1133",
+      "isGroup": true
+    },
+    {
+      "key": "45c3a621-5d40-48e3-a3aa-ce49abace039",
+      "category": "Empty",
+      "group": "src/Integrations/Intercom2"
+    },
+    {
+      "key": "src/Integrations/azure",
+      "category": "Integration",
+      "location": "12 1194.9999999999982",
+      "isGroup": true
+    },
+    {
+      "key": "f486c7f0-f407-4228-96a2-34726861ab14",
+      "category": "Empty",
+      "group": "src/Integrations/azure"
+    },
+    {
+      "key": "src/Integrations/bamboo",
+      "category": "Integration",
+      "location": "12 1256.9999999999982",
+      "isGroup": true
+    },
+    {
+      "key": "f6d26b7e-cb3f-4a72-9704-6616d73e993f",
+      "category": "Empty",
+      "group": "src/Integrations/bamboo"
+    },
+    {
+      "key": "src/Integrations/csv",
+      "category": "Integration",
+      "location": "12 1318.9999999999977",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/csv/excel_export_1651694868882.xlsx",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/csv"
+    },
+    {
+      "key": "src/Integrations/csv_abc",
+      "category": "Integration",
+      "location": "12 1380.9999999999986",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/csv_abc/numeric.xlsx",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/csv_abc"
+    },
+    {
+      "key": "src/Integrations/datos_d_mysql",
+      "category": "Integration",
+      "location": "12 2667.000000000011",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/datos_d_mysql/member",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/datos_d_mysql"
+    },
+    {
+      "key": "src/Integrations/datos_d_mysql/test_pk",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/datos_d_mysql"
+    },
+    {
+      "key": "src/Integrations/datos_d_mysql/test_view",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/datos_d_mysql"
+    },
+    {
+      "key": "src/Integrations/demo_Y42_for_zee_company",
+      "category": "Integration",
+      "location": "12 3953.0000000000146",
+      "isGroup": true
+    },
+    {
+      "key": "22ab34c0-7b94-4229-be51-c1b51f2ac3a4",
+      "category": "Empty",
+      "group": "src/Integrations/demo_Y42_for_zee_company"
+    },
+    {
+      "key": "src/Integrations/ex",
+      "category": "Integration",
+      "location": "12 4015.0000000000146",
+      "isGroup": true
+    },
+    {
+      "key": "f56bc8f3-b584-473b-abac-89ec3a27bd89",
+      "category": "Empty",
+      "group": "src/Integrations/ex"
+    },
+    {
+      "key": "src/Integrations/excel",
+      "category": "Integration",
+      "location": "12 4077.0000000000146",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/excel/addressesCSV.csv",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/excel"
+    },
+    {
+      "key": "src/Integrations/excel/addressesExcel.xlsx",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/excel"
+    },
+    {
+      "key": "src/Integrations/facebook_test2",
+      "category": "Integration",
+      "location": "12 4139.000000000015",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/facebook_test2/ads",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/facebook_test2"
+    },
+    {
+      "key": "src/Integrations/facebook_test2/ads_insights_country",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/facebook_test2"
+    },
+    {
+      "key": "src/Integrations/facebook_test2/ads_insights_dma",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/facebook_test2"
+    },
+    {
+      "key": "src/Integrations/facebook_test2/ads_insights_platform_and_device",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/facebook_test2"
+    },
+    {
+      "key": "src/Integrations/facebook_test2/ads_insights_region",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/facebook_test2"
+    },
+    {
+      "key": "src/Integrations/facebook_test2/campaigns",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/facebook_test2"
+    },
+    {
+      "key": "src/Integrations/fdesk",
+      "category": "Integration",
+      "location": "12 4201.000000000015",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/fdesk/companies",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/fdesk"
+    },
+    {
+      "key": "src/Integrations/fdesk/groups",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/fdesk"
+    },
+    {
+      "key": "src/Integrations/fdesk/roles",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/fdesk"
+    },
+    {
+      "key": "src/Integrations/gooooogle_sheeet",
+      "category": "Integration",
+      "location": "12 4263.000000000016",
+      "isGroup": true
+    },
+    {
+      "key": "fbe5af13-7bdd-49e1-9405-3f8430014827",
+      "category": "Empty",
+      "group": "src/Integrations/gooooogle_sheeet"
+    },
+    {
+      "key": "src/Integrations/hubspot_test",
+      "category": "Integration",
+      "location": "12 4325.000000000016",
+      "isGroup": true
+    },
+    {
+      "key": "96c9bd2a-b8a4-4263-906e-b551e35f0f07",
+      "category": "Empty",
+      "group": "src/Integrations/hubspot_test"
+    },
+    {
+      "key": "src/Integrations/hung_s_test_source",
+      "category": "Integration",
+      "location": "12 4423.000000000016",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/hung_s_test_source/traffic_sources",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/hung_s_test_source"
+    },
+    {
+      "key": "src/Integrations/jira_test",
+      "category": "Integration",
+      "location": "12 4521.000000000016",
+      "isGroup": true
+    },
+    {
+      "key": "0d6399b5-1b17-4740-b28d-d6ab4513393b",
+      "category": "Empty",
+      "group": "src/Integrations/jira_test"
+    },
+    {
+      "key": "src/Integrations/linkedin_ads_test",
+      "category": "Integration",
+      "location": "12 4583.000000000016",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/linkedin_ads_test/accounts",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/linkedin_ads_test"
+    },
+    {
+      "key": "src/Integrations/linkedin_ads_test/ad_analytics_by_campaign",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/linkedin_ads_test"
+    },
+    {
+      "key": "src/Integrations/linkedin_ads_test/campaigns",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/linkedin_ads_test"
+    },
+    {
+      "key": "src/Integrations/much_data",
+      "category": "Integration",
+      "location": "12 4645.000000000016",
+      "isGroup": true
+    },
+    {
+      "key": "cc7eb5f8-a9dd-46ac-a1e9-9cff23d08278",
+      "category": "Empty",
+      "group": "src/Integrations/much_data"
+    },
+    {
+      "key": "src/Integrations/mxpanel",
+      "category": "Integration",
+      "location": "12 4707.000000000016",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/mxpanel/cohorts",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/mxpanel"
+    },
+    {
+      "key": "src/Integrations/mxpanel/funnels",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/mxpanel"
+    },
+    {
+      "key": "src/Integrations/mysql",
+      "category": "Integration",
+      "location": "12 4769.000000000016",
+      "isGroup": true
+    },
+    {
+      "key": "8f327003-e544-484d-a43f-2767ff6cb27f",
+      "category": "Empty",
+      "group": "src/Integrations/mysql"
+    },
+    {
+      "key": "src/Integrations/new",
+      "category": "Integration",
+      "location": "12 4831.000000000016",
+      "isGroup": true
+    },
+    {
+      "key": "beb70ae9-9fee-4b29-9ed8-39cd4b3431af",
+      "category": "Empty",
+      "group": "src/Integrations/new"
+    },
+    {
+      "key": "src/Integrations/new_amplitude_1",
+      "category": "Integration",
+      "location": "12 4893.000000000016",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/new_amplitude_1/ActiveUserCounts",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_amplitude_1"
+    },
+    {
+      "key": "src/Integrations/new_amplitude_1/Annonations",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_amplitude_1"
+    },
+    {
+      "key": "src/Integrations/new_amplitude_1/AverageSessionLength",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_amplitude_1"
+    },
+    {
+      "key": "src/Integrations/new_amplitude_1/Cohorts",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_amplitude_1"
+    },
+    {
+      "key": "src/Integrations/new_amplitude_1/EventList",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_amplitude_1"
+    },
+    {
+      "key": "src/Integrations/new_amplitude_1/Events",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_amplitude_1"
+    },
+    {
+      "key": "src/Integrations/new_amplitude_1/NewUserCounts",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_amplitude_1"
+    },
+    {
+      "key": "src/Integrations/new_amplitude_1/RealtimeActiveUsers",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_amplitude_1"
+    },
+    {
+      "key": "src/Integrations/new_amplitude_1/SessionLenghtDistribution",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_amplitude_1"
+    },
+    {
+      "key": "src/Integrations/new_arjola",
+      "category": "Integration",
+      "location": "12 4955.000000000016",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/new_arjola/calls",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_arjola"
+    },
+    {
+      "key": "src/Integrations/new_arjola/company",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_arjola"
+    },
+    {
+      "key": "src/Integrations/new_arjola/contacts",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_arjola"
+    },
+    {
+      "key": "src/Integrations/new_arjola/dialer_campaign",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_arjola"
+    },
+    {
+      "key": "src/Integrations/new_arjola/numbers",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_arjola"
+    },
+    {
+      "key": "src/Integrations/new_arjola/phone_numbers",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_arjola"
+    },
+    {
+      "key": "src/Integrations/new_arjola/tags",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_arjola"
+    },
+    {
+      "key": "src/Integrations/new_arjola/teams",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_arjola"
+    },
+    {
+      "key": "src/Integrations/new_arjola/users",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_arjola"
+    },
+    {
+      "key": "src/Integrations/new_arjola/webhooks",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/new_arjola"
+    },
+    {
+      "key": "src/Integrations/new_bam",
+      "category": "Integration",
+      "location": "12 5017.000000000016",
+      "isGroup": true
+    },
+    {
+      "key": "db34b139-b44d-4ccb-8321-8a3580836b61",
+      "category": "Empty",
+      "group": "src/Integrations/new_bam"
+    },
+    {
+      "key": "src/Integrations/new_bamboo",
+      "category": "Integration",
+      "location": "12 5079.000000000016",
+      "isGroup": true
+    },
+    {
+      "key": "798411dd-a372-4c20-a951-d7a03f2b5748",
+      "category": "Empty",
+      "group": "src/Integrations/new_bamboo"
+    },
+    {
+      "key": "src/Integrations/nshopify",
+      "category": "Integration",
+      "location": "12 5141.0000000000055",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/nshopify/locations",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/nshopify"
+    },
+    {
+      "key": "src/Integrations/numeric",
+      "category": "Integration",
+      "location": "12 5203.0000000000055",
+      "isGroup": true
+    },
+    {
+      "key": "7ca0a58f-374c-4023-b49d-e12cd1c01617",
+      "category": "Empty",
+      "group": "src/Integrations/numeric"
+    },
+    {
+      "key": "src/Integrations/numeric123",
+      "category": "Integration",
+      "location": "12 5265.000000000002",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/numeric123/numeric.xlsx",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/numeric123"
+    },
+    {
+      "key": "src/Integrations/optimizely_test",
+      "category": "Integration",
+      "location": "12 5327.000000000002",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/optimizely_test/attributes",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/optimizely_test"
+    },
+    {
+      "key": "src/Integrations/optimizely_test/audiences",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/optimizely_test"
+    },
+    {
+      "key": "src/Integrations/optimizely_test/campaigns",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/optimizely_test"
+    },
+    {
+      "key": "src/Integrations/optimizely_test/environments",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/optimizely_test"
+    },
+    {
+      "key": "src/Integrations/optimizely_test/events",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/optimizely_test"
+    },
+    {
+      "key": "src/Integrations/optimizely_test/experiments",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/optimizely_test"
+    },
+    {
+      "key": "src/Integrations/optimizely_test/extensions",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/optimizely_test"
+    },
+    {
+      "key": "src/Integrations/optimizely_test/features",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/optimizely_test"
+    },
+    {
+      "key": "src/Integrations/optimizely_test/groups",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/optimizely_test"
+    },
+    {
+      "key": "src/Integrations/optimizely_test/list_attributes",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/optimizely_test"
+    },
+    {
+      "key": "src/Integrations/optimizely_test/pages",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/optimizely_test"
+    },
+    {
+      "key": "src/Integrations/optimizely_test/projects",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/optimizely_test"
+    },
+    {
+      "key": "src/Integrations/pinterest_test",
+      "category": "Integration",
+      "location": "12 5389.000000000002",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/pinterest_test/campaigns",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/pinterest_test"
+    },
+    {
+      "key": "src/Integrations/pokeAPI_test",
+      "category": "Integration",
+      "location": "12 5451.000000000002",
+      "isGroup": true
+    },
+    {
+      "key": "29151855-45c0-4439-acc7-4ad7f56b8552",
+      "category": "Empty",
+      "group": "src/Integrations/pokeAPI_test"
+    },
+    {
+      "key": "src/Integrations/poke_api_test",
+      "category": "Integration",
+      "location": "12 5513.0000000000055",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/poke_api_test/pokemon",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/poke_api_test"
+    },
+    {
+      "key": "src/Integrations/poke_test",
+      "category": "Integration",
+      "location": "12 5575.0000000000055",
+      "isGroup": true
+    },
+    {
+      "key": "2164c61c-7f88-4d2a-a653-ad27ef9be303",
+      "category": "Empty",
+      "group": "src/Integrations/poke_test"
+    },
+    {
+      "key": "src/Integrations/postmark",
+      "category": "Integration",
+      "location": "12 5637.000000000002",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/postmark/inbound_messages",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/postmark"
+    },
+    {
+      "key": "src/Integrations/postmark/outbound_messages",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/postmark"
+    },
+    {
+      "key": "src/Integrations/quickbooks",
+      "category": "Integration",
+      "location": "12 5699.000000000002",
+      "isGroup": true
+    },
+    {
+      "key": "74b51677-4f8b-489f-a610-8d75635b1d9d",
+      "category": "Empty",
+      "group": "src/Integrations/quickbooks"
+    },
+    {
+      "key": "src/Integrations/qweqwe",
+      "category": "Integration",
+      "location": "12 5761.000000000002",
+      "isGroup": true
+    },
+    {
+      "key": "22808165-0dc5-465a-b2ea-47d664ab3bbf",
+      "category": "Empty",
+      "group": "src/Integrations/qweqwe"
+    },
+    {
+      "key": "src/Integrations/rediDB2",
+      "category": "Integration",
+      "location": "12 5823.000000000002",
+      "isGroup": true
+    },
+    {
+      "key": "51f78060-68d3-41f6-8e0c-bf00b4aac6fa",
+      "category": "Empty",
+      "group": "src/Integrations/rediDB2"
+    },
+    {
+      "key": "src/Integrations/s3s3s3",
+      "category": "Integration",
+      "location": "12 5884.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "a64afec7-09c5-483f-b966-b54086534438",
+      "category": "Empty",
+      "group": "src/Integrations/s3s3s3"
+    },
+    {
+      "key": "src/Integrations/s3teststst",
+      "category": "Integration",
+      "location": "12 5947.000000000009",
+      "isGroup": true
+    },
+    {
+      "key": "9222a549-32ef-433e-91fc-8072587e2749",
+      "category": "Empty",
+      "group": "src/Integrations/s3teststst"
+    },
+    {
+      "key": "src/Integrations/salesforce_test",
+      "category": "Integration",
+      "location": "12 6009.0000000000055",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/salesforce_test/Location",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/salesforce_test"
+    },
+    {
+      "key": "src/Integrations/sap_byd_test",
+      "category": "Integration",
+      "location": "12 6071.000000000002",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/sap_byd_test/ScmLocation",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/sap_byd_test"
+    },
+    {
+      "key": "src/Integrations/sftpg_test",
+      "category": "Integration",
+      "location": "12 6133.000000000002",
+      "isGroup": true
+    },
+    {
+      "key": "1bb96883-49d8-49b6-a1a8-60760c96480f",
+      "category": "Empty",
+      "group": "src/Integrations/sftpg_test"
+    },
+    {
+      "key": "src/Integrations/sftpg_test2",
+      "category": "Integration",
+      "location": "12 6194.999999999998",
+      "isGroup": true
+    },
+    {
+      "key": "79663406-de67-4fd9-ae83-eee9cb76ed8f",
+      "category": "Empty",
+      "group": "src/Integrations/sftpg_test2"
+    },
+    {
+      "key": "src/Integrations/sftpg_test3",
+      "category": "Integration",
+      "location": "12 6256.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "ad5c2fc8-d5ad-4522-9678-101a7a3c9ef1",
+      "category": "Empty",
+      "group": "src/Integrations/sftpg_test3"
+    },
+    {
+      "key": "src/Integrations/sharepoint",
+      "category": "Integration",
+      "location": "12 6318.999999999998",
+      "isGroup": true
+    },
+    {
+      "key": "055451b4-a361-45c6-a0ea-217799c2538e",
+      "category": "Empty",
+      "group": "src/Integrations/sharepoint"
+    },
+    {
+      "key": "src/Integrations/sheet",
+      "category": "Integration",
+      "location": "12 6380.999999999991",
+      "isGroup": true
+    },
+    {
+      "key": "27ea9b43-651c-4adb-b055-e1c0dbb518b4",
+      "category": "Empty",
+      "group": "src/Integrations/sheet"
+    },
+    {
+      "key": "src/Integrations/sheets",
+      "category": "Integration",
+      "location": "12 6442.999999999987",
+      "isGroup": true
+    },
+    {
+      "key": "9adbd758-0a60-4ed5-955d-f418c9e24924",
+      "category": "Empty",
+      "group": "src/Integrations/sheets"
+    },
+    {
+      "key": "src/Integrations/shopify",
+      "category": "Integration",
+      "location": "12 6504.999999999987",
+      "isGroup": true
+    },
+    {
+      "key": "873d7a1b-175c-49bd-a60e-c9ee9ed68084",
+      "category": "Empty",
+      "group": "src/Integrations/shopify"
+    },
+    {
+      "key": "src/Integrations/shopify_test",
+      "category": "Integration",
+      "location": "12 6566.999999999991",
+      "isGroup": true
+    },
+    {
+      "key": "fe8ac0cd-2630-4d45-bd05-ee943e1b0a0e",
+      "category": "Empty",
+      "group": "src/Integrations/shopify_test"
+    },
+    {
+      "key": "src/Integrations/snapchat_ads_test",
+      "category": "Integration",
+      "location": "12 6628.999999999991",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/snapchat_ads_test/ad_accounts",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/snapchat_ads_test"
+    },
+    {
+      "key": "src/Integrations/snapchat_ads_test/campaigns",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/snapchat_ads_test"
+    },
+    {
+      "key": "src/Integrations/something",
+      "category": "Integration",
+      "location": "12 6690.999999999991",
+      "isGroup": true
+    },
+    {
+      "key": "f27f6056-d528-40fb-97d1-62b2305e62d0",
+      "category": "Empty",
+      "group": "src/Integrations/something"
+    },
+    {
+      "key": "src/Integrations/stripe_test",
+      "category": "Integration",
+      "location": "12 6752.999999999998",
+      "isGroup": true
+    },
+    {
+      "key": "3ae352f3-9a04-4963-867c-03b57cae638a",
+      "category": "Empty",
+      "group": "src/Integrations/stripe_test"
+    },
+    {
+      "key": "src/Integrations/taboola_test",
+      "category": "Integration",
+      "location": "12 6814.999999999991",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/taboola_test/campaign_performance",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/taboola_test"
+    },
+    {
+      "key": "src/Integrations/taboola_test/campaigns",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/taboola_test"
+    },
+    {
+      "key": "src/Integrations/taboola_test/items",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/taboola_test"
+    },
+    {
+      "key": "src/Integrations/tap_jira",
+      "category": "Integration",
+      "location": "12 6876.999999999991",
+      "isGroup": true
+    },
+    {
+      "key": "da72df47-1f4d-437d-bb28-6c14c6dea2ec",
+      "category": "Empty",
+      "group": "src/Integrations/tap_jira"
+    },
+    {
+      "key": "src/Integrations/test",
+      "category": "Integration",
+      "location": "12 6938.999999999991",
+      "isGroup": true
+    },
+    {
+      "key": "35ca0042-b46e-419c-9487-68fa397d446d",
+      "category": "Empty",
+      "group": "src/Integrations/test"
+    },
+    {
+      "key": "src/Integrations/test1",
+      "category": "Integration",
+      "location": "12 7000.999999999991",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/test1/automations-emails",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/campaigns",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/ecommerce-orders",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/ecommerce-stores",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/ecommerce-stores-orders",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/ecommerce-stores-products",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/facebook-ads",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/landing-pages",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/lists",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/lists-growth-history",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/lists-members",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/lists-segments-members",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/lists-tag-search",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/reporting-facebook-ads",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/reporting-landing-pages",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/reports",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/reports-click-details-members",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/reports-open-details",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/reports-sent-to",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/reports-sub-reports",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/root",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test1/templates",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test1"
+    },
+    {
+      "key": "src/Integrations/test123123123123",
+      "category": "Integration",
+      "location": "12 7062.999999999993",
+      "isGroup": true
+    },
+    {
+      "key": "e140801f-6f58-4a92-8773-807d075066b9",
+      "category": "Empty",
+      "group": "src/Integrations/test123123123123"
+    },
+    {
+      "key": "src/Integrations/testMariaAmazon",
+      "category": "Integration",
+      "location": "12 7124.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "abdad2d9-88a1-4555-9de9-1d78b16215d2",
+      "category": "Empty",
+      "group": "src/Integrations/testMariaAmazon"
+    },
+    {
+      "key": "src/Integrations/test_advertising",
+      "category": "Integration",
+      "location": "12 7186.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "067bf4c0-a620-4120-ad79-04c7ddbc6721",
+      "category": "Empty",
+      "group": "src/Integrations/test_advertising"
+    },
+    {
+      "key": "src/Integrations/test_aircall_arjola",
+      "category": "Integration",
+      "location": "12 7248.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "f8d96e4d-9247-4faf-a78b-953bd4b8cd55",
+      "category": "Empty",
+      "group": "src/Integrations/test_aircall_arjola"
+    },
+    {
+      "key": "src/Integrations/test_amazon_sp",
+      "category": "Integration",
+      "location": "12 7310.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "a4dcd479-6f9b-4d26-9ef6-9576e6763112",
+      "category": "Empty",
+      "group": "src/Integrations/test_amazon_sp"
+    },
+    {
+      "key": "src/Integrations/test_analytic",
+      "category": "Integration",
+      "location": "12 7372.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "2e33a6f9-72f7-4307-a882-e0846954227e",
+      "category": "Empty",
+      "group": "src/Integrations/test_analytic"
+    },
+    {
+      "key": "src/Integrations/test_braulio",
+      "category": "Integration",
+      "location": "12 7506.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/test_braulio/Chat-Sheet1",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test_braulio"
+    },
+    {
+      "key": "src/Integrations/test_calendly_2",
+      "category": "Integration",
+      "location": "12 7640.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/test_calendly_2/Event",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test_calendly_2"
+    },
+    {
+      "key": "src/Integrations/test_calendly_2/EventType",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test_calendly_2"
+    },
+    {
+      "key": "src/Integrations/test_calendly_2/WebhookSubscription",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test_calendly_2"
+    },
+    {
+      "key": "src/Integrations/test_can",
+      "category": "Integration",
+      "location": "12 7702.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/test_can/ad_group_ad_report",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test_can"
+    },
+    {
+      "key": "src/Integrations/test_can/user_location_view_by_campaign_report",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test_can"
+    },
+    {
+      "key": "src/Integrations/test_csv",
+      "category": "Integration",
+      "location": "12 7764.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/test_csv/220601230012_c9635e27-e6e6-5ce9-b1d9-1249a0bf8d4a.csv",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test_csv"
+    },
+    {
+      "key": "src/Integrations/test_egi",
+      "category": "Integration",
+      "location": "12 7826.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/test_egi/exchange_rates",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test_egi"
+    },
+    {
+      "key": "src/Integrations/test_exc_api",
+      "category": "Integration",
+      "location": "12 7888.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "f5e0186b-1232-4268-a5fc-a200ff6fbc43",
+      "category": "Empty",
+      "group": "src/Integrations/test_exc_api"
+    },
+    {
+      "key": "src/Integrations/test_excel",
+      "category": "Integration",
+      "location": "12 7986.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/test_excel/excel-spreadsheet-examples-for-students.xlsx",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test_excel"
+    },
+    {
+      "key": "src/Integrations/test_exchange_rates_api",
+      "category": "Integration",
+      "location": "12 8084.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/test_exchange_rates_api/exchange_rates",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/test_exchange_rates_api"
+    },
+    {
+      "key": "src/Integrations/test_g_analytics",
+      "category": "Integration",
+      "location": "12 8146.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "f971b5ff-d8db-42da-a614-6037096b7807",
+      "category": "Empty",
+      "group": "src/Integrations/test_g_analytics"
+    },
+    {
+      "key": "src/Integrations/test_google_analytics_2",
+      "category": "Integration",
+      "location": "12 8208.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "a2974b6b-b25c-4a00-a6f7-ab2b7a97b967",
+      "category": "Empty",
+      "group": "src/Integrations/test_google_analytics_2"
+    },
+    {
+      "key": "src/Integrations/test_google_my_busines",
+      "category": "Integration",
+      "location": "12 8270.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "256dd00d-5c74-4f4f-8e69-56f41d6cb611",
+      "category": "Empty",
+      "group": "src/Integrations/test_google_my_busines"
+    },
+    {
+      "key": "src/Integrations/test_irtable",
+      "category": "Integration",
+      "location": "12 8332.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "3a597e70-fe15-404b-a8e8-f5bd5314b97b",
+      "category": "Empty",
+      "group": "src/Integrations/test_irtable"
+    },
+    {
+      "key": "src/Integrations/test_outbrain",
+      "category": "Integration",
+      "location": "12 8394.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "9f1809f4-eb6e-4006-ab17-08cce2ee07cb",
+      "category": "Empty",
+      "group": "src/Integrations/test_outbrain"
+    },
+    {
+      "key": "src/Integrations/test_sheeeeeet",
+      "category": "Integration",
+      "location": "12 8456.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "30752db4-50c8-46c2-aa73-66a5c290e130",
+      "category": "Empty",
+      "group": "src/Integrations/test_sheeeeeet"
+    },
+    {
+      "key": "src/Integrations/test_sheet",
+      "category": "Integration",
+      "location": "12 8518.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "d504d97b-9e42-4a44-a976-86050117f3b9",
+      "category": "Empty",
+      "group": "src/Integrations/test_sheet"
+    },
+    {
+      "key": "src/Integrations/testcsschema2",
+      "category": "Integration",
+      "location": "12 8580.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "707bda51-8fe0-4df2-b50a-985cd7bda027",
+      "category": "Empty",
+      "group": "src/Integrations/testcsschema2"
+    },
+    {
+      "key": "src/Integrations/testcsvschema",
+      "category": "Integration",
+      "location": "12 8642.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "0e0ef4cc-0019-4172-82cf-94e9cdcd8188",
+      "category": "Empty",
+      "group": "src/Integrations/testcsvschema"
+    },
+    {
+      "key": "src/Integrations/testi",
+      "category": "Integration",
+      "location": "12 8704.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/testi/opportunity_applications",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testi"
+    },
+    {
+      "key": "src/Integrations/testii",
+      "category": "Integration",
+      "location": "12 8766.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "ecc5890c-8876-4e51-aed0-79b06650b78c",
+      "category": "Empty",
+      "group": "src/Integrations/testii"
+    },
+    {
+      "key": "src/Integrations/testiiiiiim",
+      "category": "Integration",
+      "location": "12 8828.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "ec93c1f4-f6de-463a-8d23-9b3a96a8a4fe",
+      "category": "Empty",
+      "group": "src/Integrations/testiiiiiim"
+    },
+    {
+      "key": "src/Integrations/testiiiim",
+      "category": "Integration",
+      "location": "12 8890.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "19c3f783-37e3-4bd3-822e-468a5c0601f7",
+      "category": "Empty",
+      "group": "src/Integrations/testiiiim"
+    },
+    {
+      "key": "src/Integrations/testiiim",
+      "category": "Integration",
+      "location": "12 8952.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "a3279fa3-09ae-4b9c-8f78-f034b58de8a8",
+      "category": "Empty",
+      "group": "src/Integrations/testiiim"
+    },
+    {
+      "key": "src/Integrations/testiiimm",
+      "category": "Integration",
+      "location": "12 9014.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "084ca985-871d-4e0c-badf-cab2530df020",
+      "category": "Empty",
+      "group": "src/Integrations/testiiimm"
+    },
+    {
+      "key": "src/Integrations/testiim",
+      "category": "Integration",
+      "location": "12 9076.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/testiim/portfolios",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testiim"
+    },
+    {
+      "key": "src/Integrations/testiim/projects",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testiim"
+    },
+    {
+      "key": "src/Integrations/testiim/sections",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testiim"
+    },
+    {
+      "key": "src/Integrations/testiim/stories",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testiim"
+    },
+    {
+      "key": "src/Integrations/testiim/tags",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testiim"
+    },
+    {
+      "key": "src/Integrations/testiim/tasks",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testiim"
+    },
+    {
+      "key": "src/Integrations/testiim/teams",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testiim"
+    },
+    {
+      "key": "src/Integrations/testiim/users",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testiim"
+    },
+    {
+      "key": "src/Integrations/testiim/workspaces",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testiim"
+    },
+    {
+      "key": "src/Integrations/testimi",
+      "category": "Integration",
+      "location": "12 9138.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "8ae76b23-136f-4b46-b27a-63af99a859ea",
+      "category": "Empty",
+      "group": "src/Integrations/testimi"
+    },
+    {
+      "key": "src/Integrations/testimm",
+      "category": "Integration",
+      "location": "12 9200.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "d39accfa-ea0c-453f-9bfd-35f73db55547",
+      "category": "Empty",
+      "group": "src/Integrations/testimm"
+    },
+    {
+      "key": "src/Integrations/testimmi",
+      "category": "Integration",
+      "location": "12 9262.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "2e3a4630-8652-494e-8726-be4544e05893",
+      "category": "Empty",
+      "group": "src/Integrations/testimmi"
+    },
+    {
+      "key": "src/Integrations/testimmm",
+      "category": "Integration",
+      "location": "12 9324.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "7ef45f3b-035d-450a-952a-538c4b70d5ea",
+      "category": "Empty",
+      "group": "src/Integrations/testimmm"
+    },
+    {
+      "key": "src/Integrations/testing_merge_commit",
+      "category": "Integration",
+      "location": "12 9386.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "1e4a84fd-17aa-4d32-b741-cd4dd8218a00",
+      "category": "Empty",
+      "group": "src/Integrations/testing_merge_commit"
+    },
+    {
+      "key": "src/Integrations/testpd",
+      "category": "Integration",
+      "location": "12 9448.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "1499c497-ca84-4ad6-9ac2-80d306b6977d",
+      "category": "Empty",
+      "group": "src/Integrations/testpd"
+    },
+    {
+      "key": "src/Integrations/testrediii",
+      "category": "Integration",
+      "location": "12 9510.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "15d055a1-294b-4714-9fb9-90e3f10d7750",
+      "category": "Empty",
+      "group": "src/Integrations/testrediii"
+    },
+    {
+      "key": "src/Integrations/tests3",
+      "category": "Integration",
+      "location": "12 9572.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "36abde53-7aac-4d48-bc65-17697c8823bd",
+      "category": "Empty",
+      "group": "src/Integrations/tests3"
+    },
+    {
+      "key": "src/Integrations/tests3s3s3s33s3s3s3s3s3s",
+      "category": "Integration",
+      "location": "12 9634.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/tests3s3s3s33s3s3s3s3s3s/1000000 Sales Records.csv",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/tests3s3s3s33s3s3s3s3s3s"
+    },
+    {
+      "key": "src/Integrations/tests3s3s3s33s3s3s3s3s3s/SampleCSVFile_5300kb.csv",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/tests3s3s3s33s3s3s3s3s3s"
+    },
+    {
+      "key": "src/Integrations/tests3s3s3s33s3s3s3s3s3s/export.xlsx",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/tests3s3s3s33s3s3s3s3s3s"
+    },
+    {
+      "key": "src/Integrations/tests3s3s3s33s3s3s3s3s3s/s3test.csv",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/tests3s3s3s33s3s3s3s3s3s"
+    },
+    {
+      "key": "src/Integrations/tests3s3s3s33s3s3s3s3s3s/test.csv",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/tests3s3s3s33s3s3s3s3s3s"
+    },
+    {
+      "key": "src/Integrations/testsdgdsg",
+      "category": "Integration",
+      "location": "12 9696.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "70a4b8a8-fd4d-4586-8a1f-f5f717834bd5",
+      "category": "Empty",
+      "group": "src/Integrations/testsdgdsg"
+    },
+    {
+      "key": "src/Integrations/testt",
+      "category": "Integration",
+      "location": "12 9758.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "c08c4eed-4a44-42a3-a9cc-600a7c23a8b6",
+      "category": "Empty",
+      "group": "src/Integrations/testt"
+    },
+    {
+      "key": "src/Integrations/testtim",
+      "category": "Integration",
+      "location": "12 9820.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/testtim/bounce",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testtim"
+    },
+    {
+      "key": "src/Integrations/testtim/click",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testtim"
+    },
+    {
+      "key": "src/Integrations/testtim/dropped_email",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testtim"
+    },
+    {
+      "key": "src/Integrations/testtim/flows",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testtim"
+    },
+    {
+      "key": "src/Integrations/testtim/mark_as_spam",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testtim"
+    },
+    {
+      "key": "src/Integrations/testtim/open",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testtim"
+    },
+    {
+      "key": "src/Integrations/testtim/profiles",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testtim"
+    },
+    {
+      "key": "src/Integrations/testtim/receive",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testtim"
+    },
+    {
+      "key": "src/Integrations/testtim/unsubscribe",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/testtim"
+    },
+    {
+      "key": "src/Integrations/testtttt",
+      "category": "Integration",
+      "location": "12 9882.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "1387bbe2-b2a2-4c64-a2c7-41ee3760d174",
+      "category": "Empty",
+      "group": "src/Integrations/testtttt"
+    },
+    {
+      "key": "src/Integrations/tiktok_ads_test",
+      "category": "Integration",
+      "location": "12 9944.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "5dbeeda8-a204-4d6b-8445-c78f4db14ebb",
+      "category": "Empty",
+      "group": "src/Integrations/tiktok_ads_test"
+    },
+    {
+      "key": "src/Integrations/trello_test",
+      "category": "Integration",
+      "location": "12 10006.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/trello_test/actions",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/trello_test"
+    },
+    {
+      "key": "src/Integrations/trello_test/boards",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/trello_test"
+    },
+    {
+      "key": "src/Integrations/trello_test/cards",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/trello_test"
+    },
+    {
+      "key": "src/Integrations/trello_test/checklists",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/trello_test"
+    },
+    {
+      "key": "src/Integrations/trello_test/lists",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/trello_test"
+    },
+    {
+      "key": "src/Integrations/ttestim",
+      "category": "Integration",
+      "location": "12 10068.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "4af08579-f860-46a2-9bc0-a20f99aeaece",
+      "category": "Empty",
+      "group": "src/Integrations/ttestim"
+    },
+    {
+      "key": "src/Integrations/twitter",
+      "category": "Integration",
+      "location": "12 10130.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "22559f34-78ca-455e-9664-57e7da9f3ad6",
+      "category": "Empty",
+      "group": "src/Integrations/twitter"
+    },
+    {
+      "key": "src/Integrations/twitter1",
+      "category": "Integration",
+      "location": "12 10192.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "00534746-17ec-4c2a-b6ff-beb2dcdfcf34",
+      "category": "Empty",
+      "group": "src/Integrations/twitter1"
+    },
+    {
+      "key": "src/Integrations/twitter_ads",
+      "category": "Integration",
+      "location": "12 10254.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "639748c9-ce35-4e21-8f18-b4bbc4127927",
+      "category": "Empty",
+      "group": "src/Integrations/twitter_ads"
+    },
+    {
+      "key": "src/Integrations/twitter_test",
+      "category": "Integration",
+      "location": "12 10316.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "2dea58e9-5417-42e2-8a40-896b713395bd",
+      "category": "Empty",
+      "group": "src/Integrations/twitter_test"
+    },
+    {
+      "key": "src/Integrations/twitterads",
+      "category": "Integration",
+      "location": "12 10378.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "c1bf3e84-53c0-4f36-b220-6544d1672f38",
+      "category": "Empty",
+      "group": "src/Integrations/twitterads"
+    },
+    {
+      "key": "src/Integrations/ua",
+      "category": "Integration",
+      "location": "12 10440.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/ua/playlist_basic_a1",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/ua"
+    },
+    {
+      "key": "src/Integrations/v2_test_amplitude",
+      "category": "Integration",
+      "location": "12 10502.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "src/Integrations/v2_test_amplitude/ActiveUserCounts",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/v2_test_amplitude"
+    },
+    {
+      "key": "src/Integrations/v2_test_amplitude/Annonations",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/v2_test_amplitude"
+    },
+    {
+      "key": "src/Integrations/v2_test_amplitude/AverageSessionLength",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/v2_test_amplitude"
+    },
+    {
+      "key": "src/Integrations/v2_test_amplitude/Cohorts",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/v2_test_amplitude"
+    },
+    {
+      "key": "src/Integrations/v2_test_amplitude/EventList",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/v2_test_amplitude"
+    },
+    {
+      "key": "src/Integrations/v2_test_amplitude/Events",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/v2_test_amplitude"
+    },
+    {
+      "key": "src/Integrations/v2_test_amplitude/NewUserCounts",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/v2_test_amplitude"
+    },
+    {
+      "key": "src/Integrations/v2_test_amplitude/RealtimeActiveUsers",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/v2_test_amplitude"
+    },
+    {
+      "key": "src/Integrations/v2_test_amplitude/SessionLenghtDistribution",
+      "category": "Integration",
+      "isGroup": false,
+      "group": "src/Integrations/v2_test_amplitude"
+    },
+    {
+      "key": "src/Integrations/v2_test_docusign",
+      "category": "Integration",
+      "location": "12 10564.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "1ff27f90-1375-456b-9d34-dd56882cc2eb",
+      "category": "Empty",
+      "group": "src/Integrations/v2_test_docusign"
+    },
+    {
+      "key": "src/Integrations/v2_test_personio",
+      "category": "Integration",
+      "location": "12 10626.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "6ec901eb-3280-47ca-9f3a-7c7b4200c12e",
+      "category": "Empty",
+      "group": "src/Integrations/v2_test_personio"
+    },
+    {
+      "key": "src/Integrations/xero",
+      "category": "Integration",
+      "location": "12 10688.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "85ae8eb2-f034-46ea-976f-18bad5884aa8",
+      "category": "Empty",
+      "group": "src/Integrations/xero"
+    },
+    {
+      "key": "src/Integrations/zendesk",
+      "category": "Integration",
+      "location": "12 10750.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "ab2f9a1e-d466-4491-912f-1c8a76724691",
+      "category": "Empty",
+      "group": "src/Integrations/zendesk"
+    },
+    {
+      "key": "src/Integrations/zoho",
+      "category": "Integration",
+      "location": "12 10812.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "bfcda00f-8373-4a43-9077-bb80f10682a3",
+      "category": "Empty",
+      "group": "src/Integrations/zoho"
+    },
+    {
+      "key": "src/Integrations/zohocrm2",
+      "category": "Integration",
+      "location": "12 10874.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "3d2a1b77-df46-4219-ac53-74e303202f74",
+      "category": "Empty",
+      "group": "src/Integrations/zohocrm2"
+    },
+    {
+      "key": "src/Models/UI/ABC_123",
+      "category": "UiModel",
+      "location": "12 10936.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "9b170f28-1ac9-4c2d-9326-3815c4d0d841",
+      "category": "Empty",
+      "group": "src/Models/UI/ABC_123"
+    },
+    {
+      "key": "src/Models/UI/ASDASDASD",
+      "category": "UiModel",
+      "location": "12 10998.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "32bafd46-dda1-4d12-a909-f324a2e343cb",
+      "category": "Empty",
+      "group": "src/Models/UI/ASDASDASD"
+    },
+    {
+      "key": "src/Models/UI/AlertModel",
+      "category": "UiModel",
+      "location": "12 11060.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "1eb50115-0325-400f-a916-37b6b230750d",
+      "category": "Empty",
+      "group": "src/Models/UI/AlertModel"
+    },
+    {
+      "key": "src/Models/UI/Alex_look_at_me",
+      "category": "UiModel",
+      "location": "12 11122.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "bcc0dd24-3913-4c47-a13f-e6253435b5d9",
+      "category": "Empty",
+      "group": "src/Models/UI/Alex_look_at_me"
+    },
+    {
+      "key": "src/Models/UI/ClickUp_JSON_Extraction",
+      "category": "UiModel",
+      "location": "12 11184.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "6a678aed-bd2c-4cf2-a70d-b5856c4a3381",
+      "category": "Empty",
+      "group": "src/Models/UI/ClickUp_JSON_Extraction"
+    },
+    {
+      "key": "src/Models/UI/Hugo_Date_Cast_Model_test_pk",
+      "category": "UiModel",
+      "location": "12 11246.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "6f77a13d-a661-4edc-b7cb-f935cbaed1f5",
+      "category": "Empty",
+      "group": "src/Models/UI/Hugo_Date_Cast_Model_test_pk"
+    },
+    {
+      "key": "src/Models/UI/NEW_UI",
+      "category": "UiModel",
+      "location": "392.0456949966159 237",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/UI/NEW_UI/new_ui",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/UI/NEW_UI"
+    },
+    {
+      "key": "src/Models/UI/QBC",
+      "category": "UiModel",
+      "location": "12 11308.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "1f23dfec-3325-4342-b720-635df2783232",
+      "category": "Empty",
+      "group": "src/Models/UI/QBC"
+    },
+    {
+      "key": "src/Models/UI/Simon_s_model",
+      "category": "UiModel",
+      "location": "12 11370.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "f65eba97-9e55-42d4-8aac-63643399b7dc",
+      "category": "Empty",
+      "group": "src/Models/UI/Simon_s_model"
+    },
+    {
+      "key": "src/Models/UI/WWQA",
+      "category": "UiModel",
+      "location": "12 11432.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "53489505-64e5-4298-a237-228256cc4ea8",
+      "category": "Empty",
+      "group": "src/Models/UI/WWQA"
+    },
+    {
+      "key": "src/Models/UI/abc_ui_model",
+      "category": "UiModel",
+      "location": "12 11494.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "7d0d007c-e15e-44f8-a4d0-d9084efc7224",
+      "category": "Empty",
+      "group": "src/Models/UI/abc_ui_model"
+    },
+    {
+      "key": "src/Models/UI/another_model_2",
+      "category": "UiModel",
+      "location": "392.0456949966159 11556.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/UI/another_model_2/another_model_2",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/UI/another_model_2"
+    },
+    {
+      "key": "src/Models/UI/another_odel",
+      "category": "UiModel",
+      "location": "12 11556.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/UI/another_odel/another_odel",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/UI/another_odel"
+    },
+    {
+      "key": "src/Models/UI/another_one",
+      "category": "UiModel",
+      "location": "392.0456949966159 7434.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/UI/another_one/another_one",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/UI/another_one"
+    },
+    {
+      "key": "src/Models/UI/asd_Asd_asd",
+      "category": "UiModel",
+      "location": "12 11618.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "db91243c-bc54-49cf-a2ee-88b9fed643fa",
+      "category": "Empty",
+      "group": "src/Models/UI/asd_Asd_asd"
+    },
+    {
+      "key": "src/Models/UI/asd_asdasd",
+      "category": "UiModel",
+      "location": "12 11680.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "ef4fcc45-051f-49e1-aa15-54427cdcd23b",
+      "category": "Empty",
+      "group": "src/Models/UI/asd_asdasd"
+    },
+    {
+      "key": "src/Models/UI/boolean_function_node_test",
+      "category": "UiModel",
+      "location": "392.0456949966159 7950.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/UI/boolean_function_node_test/boolean_function_node_test",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/UI/boolean_function_node_test"
+    },
+    {
+      "key": "src/Models/UI/comment",
+      "category": "UiModel",
+      "location": "12 11742.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "e406368b-92e6-4e5a-834d-8cef2865a514",
+      "category": "Empty",
+      "group": "src/Models/UI/comment"
+    },
+    {
+      "key": "src/Models/en_test_10",
+      "category": "UiModel",
+      "location": "1374.9028378537587 625",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/UI/en_test_10/en_test_10",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/en_test_10"
+    },
+    {
+      "key": "src/Models/UI/en_test_10/en_test_10_1",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/en_test_10"
+    },
+    {
+      "key": "src/Models/UI/en_test_10/en_test_10_2",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/en_test_10"
+    },
+    {
+      "key": "src/Models/UI/incremental_model_example",
+      "category": "UiModel",
+      "location": "12 11804.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "d5a4609e-85ba-4838-bbd7-45c99fef6deb",
+      "category": "Empty",
+      "group": "src/Models/UI/incremental_model_example"
+    },
+    {
+      "key": "src/Models/UI/med_end",
+      "category": "UiModel",
+      "location": "392.0456949966159 8022.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/UI/med_end/med_end",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/UI/med_end"
+    },
+    {
+      "key": "src/Models/UI/meta_fix_ui",
+      "category": "UiModel",
+      "location": "392.0456949966159 1442.9999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/UI/meta_fix_ui/meta_fix_ui",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/UI/meta_fix_ui"
+    },
+    {
+      "key": "src/Models/UI/mod06",
+      "category": "UiModel",
+      "location": "12 11866.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "1f0c7d1f-3145-4cd5-bb6b-57a0921395a6",
+      "category": "Empty",
+      "group": "src/Models/UI/mod06"
+    },
+    {
+      "key": "src/Models/UI/my_mod",
+      "category": "UiModel",
+      "location": "12 11928.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "4bd506d3-4cb7-40e4-80fa-4ece6f4d8cfa",
+      "category": "Empty",
+      "group": "src/Models/UI/my_mod"
+    },
+    {
+      "key": "src/Models/UI/my_model_26",
+      "category": "UiModel",
+      "location": "392.0456949966159 4893.000000000016",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/UI/my_model_26/my_model_26",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/UI/my_model_26"
+    },
+    {
+      "key": "src/Models/UI/my_model_end",
+      "category": "UiModel",
+      "location": "12 11990.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "5318e3f4-a728-498a-a8f2-6b9e3d14a721",
+      "category": "Empty",
+      "group": "src/Models/UI/my_model_end"
+    },
+    {
+      "key": "src/Models/UI/new_UI_model_from_scratch",
+      "category": "UiModel",
+      "location": "12 12052.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "09d11803-6d40-4ece-812f-8bd91da5e92c",
+      "category": "Empty",
+      "group": "src/Models/UI/new_UI_model_from_scratch"
+    },
+    {
+      "key": "src/Models/UI/new_abc",
+      "category": "UiModel",
+      "location": "12 12114.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "8f824f28-b9dc-4951-9be4-94f0a2ff253b",
+      "category": "Empty",
+      "group": "src/Models/UI/new_abc"
+    },
+    {
+      "key": "src/Models/UI/new_new_new",
+      "category": "UiModel",
+      "location": "12 12176.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "da2ba369-5b9c-4a38-9862-e27c835a11a3",
+      "category": "Empty",
+      "group": "src/Models/UI/new_new_new"
+    },
+    {
+      "key": "src/Models/UI/new_schema_ui_model",
+      "category": "UiModel",
+      "location": "392.0456949966159 865",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/UI/new_schema_ui_model/table1",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/UI/new_schema_ui_model"
+    },
+    {
+      "key": "src/Models/UI/new_schema_ui_model/table2",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/UI/new_schema_ui_model"
+    },
+    {
+      "key": "src/Models/UI/new_ui_model_abc",
+      "category": "UiModel",
+      "location": "12 12238.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "ea84ffcb-667c-4f5a-a07e-e406d3904af6",
+      "category": "Empty",
+      "group": "src/Models/UI/new_ui_model_abc"
+    },
+    {
+      "key": "src/Models/new_ui_model_asd",
+      "category": "UiModel",
+      "location": "12 12300.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "385c491e-a798-4dc1-a22f-5f533f952e76",
+      "category": "Empty",
+      "group": "src/Models/new_ui_model_asd"
+    },
+    {
+      "key": "src/Models/UI/test1",
+      "category": "UiModel",
+      "location": "392.0456949966159 1514.9999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/UI/test1/test1_2",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/UI/test1"
+    },
+    {
+      "key": "src/Models/UI/test1/test1_3",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/UI/test1"
+    },
+    {
+      "key": "src/Models/UI/test1/test2",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/UI/test1"
+    },
+    {
+      "key": "src/Models/UI/test1/test_status_table",
+      "category": "UiModel",
+      "isGroup": false,
+      "group": "src/Models/UI/test1"
+    },
+    {
+      "key": "src/Models/UI/test_function_node",
+      "category": "UiModel",
+      "location": "12 12362.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "6f2fbbe9-c3cb-4e5d-adc6-beefc0b2a49a",
+      "category": "Empty",
+      "group": "src/Models/UI/test_function_node"
+    },
+    {
+      "key": "src/Models/UI/testing_merge",
+      "category": "UiModel",
+      "location": "12 12424.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "242e4580-2dd8-4df8-84de-b4a45b56213a",
+      "category": "Empty",
+      "group": "src/Models/UI/testing_merge"
+    },
+    {
+      "key": "src/Models/UI/ui_another",
+      "category": "UiModel",
+      "location": "12 12486.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "86a07dac-76a5-48d6-a9b6-eb9f1a863e1b",
+      "category": "Empty",
+      "group": "src/Models/UI/ui_another"
+    },
+    {
+      "key": "src/Models/UI/ui_empty_model",
+      "category": "UiModel",
+      "location": "12 12548.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "ad7ca0a4-dfa2-4e4a-a3f6-b952d482cb7e",
+      "category": "Empty",
+      "group": "src/Models/UI/ui_empty_model"
+    },
+    {
+      "key": "src/Models/UI/ui_model_e2e_test",
+      "category": "UiModel",
+      "location": "12 12610.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "0d0e6fed-b1e5-47d0-ad9d-3cecd687a9f7",
+      "category": "Empty",
+      "group": "src/Models/UI/ui_model_e2e_test"
+    },
+    {
+      "key": "src/Models/UI/ui_model_node_test",
+      "category": "UiModel",
+      "location": "12 12672.99999999998",
+      "isGroup": true
+    },
+    {
+      "key": "2108508b-d079-4be3-b215-a56822d0c98e",
+      "category": "Empty",
+      "group": "src/Models/UI/ui_model_node_test"
+    },
+    {
+      "key": "src/Models/UI/ui_model_test_123",
+      "category": "UiModel",
+      "location": "12 12734.999999999987",
+      "isGroup": true
+    },
+    {
+      "key": "fffb37bb-2ea3-4d42-88a9-3a63f96468be",
+      "category": "Empty",
+      "group": "src/Models/UI/ui_model_test_123"
+    },
+    {
+      "key": "src/Models/SQL/NEW_SQL",
+      "category": "SqlModel",
+      "location": "1182.0456949966162 1009",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/SQL/NEW_SQL/table_1",
+      "category": "SqlModel",
+      "isGroup": false,
+      "group": "src/Models/SQL/NEW_SQL"
+    },
+    {
+      "key": "src/Models/SQL/SQL_mod",
+      "category": "SqlModel",
+      "location": "392.0456949966159 309",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/SQL/SQL_mod/table_1",
+      "category": "SqlModel",
+      "isGroup": false,
+      "group": "src/Models/SQL/SQL_mod"
+    },
+    {
+      "key": "src/Models/SQL/SQL_mode",
+      "category": "SqlModel",
+      "location": "12 12796.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "b2bc9823-14b2-439f-97cc-dde9a2ebdf45",
+      "category": "Empty",
+      "group": "src/Models/SQL/SQL_mode"
+    },
+    {
+      "key": "src/Models/SQL/SQL_model",
+      "category": "SqlModel",
+      "location": "12 12858.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "a0a2063f-bfe1-400c-9a9a-fb77d28b8bd2",
+      "category": "Empty",
+      "group": "src/Models/SQL/SQL_model"
+    },
+    {
+      "key": "src/Models/SQL/meta_fix_sql",
+      "category": "SqlModel",
+      "location": "392.0456949966159 1587.0000000000005",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/SQL/meta_fix_sql/table_1",
+      "category": "SqlModel",
+      "isGroup": false,
+      "group": "src/Models/SQL/meta_fix_sql"
+    },
+    {
+      "key": "src/Models/SQL/meta_fix_sql/table_2",
+      "category": "SqlModel",
+      "isGroup": false,
+      "group": "src/Models/SQL/meta_fix_sql"
+    },
+    {
+      "key": "src/Models/SQL/new_schema_sql_model",
+      "category": "SqlModel",
+      "location": "392.0456949966159 937",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/SQL/new_schema_sql_model/table_1",
+      "category": "SqlModel",
+      "isGroup": false,
+      "group": "src/Models/SQL/new_schema_sql_model"
+    },
+    {
+      "key": "src/Models/SQL/new_schema_sql_model/table_3",
+      "category": "SqlModel",
+      "isGroup": false,
+      "group": "src/Models/SQL/new_schema_sql_model"
+    },
+    {
+      "key": "src/Models/SQL/sql_model_test_1",
+      "category": "SqlModel",
+      "location": "12 12920.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "04b0c16a-cdb6-4b42-9711-b74cf865b135",
+      "category": "Empty",
+      "group": "src/Models/SQL/sql_model_test_1"
+    },
+    {
+      "key": "src/Models/SQL/test_schema_stuff",
+      "category": "SqlModel",
+      "location": "12 12982.999999999987",
+      "isGroup": true
+    },
+    {
+      "key": "src/Models/SQL/test_schema_stuff/table_1",
+      "category": "SqlModel",
+      "isGroup": false,
+      "group": "src/Models/SQL/test_schema_stuff"
+    },
+    {
+      "key": "src/Visualizations/Dashboards/Cambridge_DEMO",
+      "category": "Dashboard",
+      "location": "1679.425685352067 248.14285714285705",
+      "isGroup": true
+    },
+    {
+      "key": "src/Visualizations/Dashboards/Cambridge_DEMO/Tab_1",
+      "category": "Dashboard",
+      "isGroup": false,
+      "group": "src/Visualizations/Dashboards/Cambridge_DEMO"
+    },
+    {
+      "key": "src/Visualizations/Dashboards/EU_Sales",
+      "category": "Dashboard",
+      "location": "1759.4256853520674 1003",
+      "isGroup": true
+    },
+    {
+      "key": "src/Visualizations/Dashboards/EU_Sales/Tab_1",
+      "category": "Dashboard",
+      "isGroup": false,
+      "group": "src/Visualizations/Dashboards/EU_Sales"
+    },
+    {
+      "key": "src/Visualizations/Dashboards/EU_Sales/Eastern_Europe",
+      "category": "Dashboard",
+      "isGroup": false,
+      "group": "src/Visualizations/Dashboards/EU_Sales"
+    },
+    {
+      "key": "src/Visualizations/Dashboards/EU_Sales/Northern_Europe",
+      "category": "Dashboard",
+      "isGroup": false,
+      "group": "src/Visualizations/Dashboards/EU_Sales"
+    },
+    {
+      "key": "src/Visualizations/Dashboards/Falcon_Dashboard",
+      "category": "Dashboard",
+      "location": "776.5685424949238 1731.0000000000018",
+      "isGroup": true
+    },
+    {
+      "key": "src/Visualizations/Dashboards/Falcon_Dashboard/Showcase",
+      "category": "Dashboard",
+      "isGroup": false,
+      "group": "src/Visualizations/Dashboards/Falcon_Dashboard"
+    },
+    {
+      "key": "src/Visualizations/Dashboards/Falcon_Dashboard/Online_vs_Offline",
+      "category": "Dashboard",
+      "isGroup": false,
+      "group": "src/Visualizations/Dashboards/Falcon_Dashboard"
+    },
+    {
+      "key": "src/Visualizations/Dashboards/Falcon_Dashboard/Deep_Dive__copy_",
+      "category": "Dashboard",
+      "isGroup": false,
+      "group": "src/Visualizations/Dashboards/Falcon_Dashboard"
+    },
+    {
+      "key": "src/Visualizations/Dashboards/new",
+      "category": "Dashboard",
+      "location": "776.5685424949238 1659.0000000000018",
+      "isGroup": true
+    },
+    {
+      "key": "src/Visualizations/Dashboards/new/Tab_1",
+      "category": "Dashboard",
+      "isGroup": false,
+      "group": "src/Visualizations/Dashboards/new"
+    },
+    {
+      "key": "src/Visualizations/Dashboards/new/Snowflake_Test",
+      "category": "Dashboard",
+      "isGroup": false,
+      "group": "src/Visualizations/Dashboards/new"
+    },
+    {
+      "key": "src/Exports/bigquery_test",
+      "category": "Export",
+      "location": "392.0456949966159 3747.0000000000146",
+      "isGroup": true
+    },
+    {
+      "key": "src/Exports/bigquery_test/datos_d_mysql___member",
+      "category": "Export",
+      "isGroup": false,
+      "group": "src/Exports/bigquery_test"
+    },
+    {
+      "key": "src/Exports/bigquery_test/datos_d_mysql___test_pk",
+      "category": "Export",
+      "isGroup": false,
+      "group": "src/Exports/bigquery_test"
+    },
+    {
+      "key": "src/Exports/bq_test_123",
+      "category": "Export",
+      "location": "12 13044.99999999998",
+      "isGroup": true
+    },
+    {
+      "key": "b1fadcf6-ea84-49e5-aefb-2e1b6f03fa25",
+      "category": "Empty",
+      "group": "src/Exports/bq_test_123"
+    },
+    {
+      "key": "src/Exports/csv_123",
+      "category": "Export",
+      "location": "12 13106.999999999987",
+      "isGroup": true
+    },
+    {
+      "key": "44ebb56f-9223-48d2-843b-c0c7cbccad10",
+      "category": "Empty",
+      "group": "src/Exports/csv_123"
+    },
+    {
+      "key": "src/Exports/csv_export",
+      "category": "Export",
+      "location": "392.0456949966159 3819.0000000000146",
+      "isGroup": true
+    },
+    {
+      "key": "src/Exports/csv_export/datos_d_mysql___member",
+      "category": "Export",
+      "isGroup": false,
+      "group": "src/Exports/csv_export"
+    },
+    {
+      "key": "src/Exports/csv_export/test_braulio___Chat_Sheet1",
+      "category": "Export",
+      "isGroup": false,
+      "group": "src/Exports/csv_export"
+    },
+    {
+      "key": "src/Exports/csv_test",
+      "category": "Export",
+      "location": "392.0456949966159 3891.0000000000146",
+      "isGroup": true
+    },
+    {
+      "key": "src/Exports/csv_test/datos_d_mysql___member",
+      "category": "Export",
+      "isGroup": false,
+      "group": "src/Exports/csv_test"
+    },
+    {
+      "key": "src/Exports/csv_test/first_google_ads___ad_groups",
+      "category": "Export",
+      "isGroup": false,
+      "group": "src/Exports/csv_test"
+    },
+    {
+      "key": "src/Exports/google_sheet_test",
+      "category": "Export",
+      "location": "392.0456949966159 7506.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "src/Exports/google_sheet_test/test_braulio___Chat_Sheet1",
+      "category": "Export",
+      "isGroup": false,
+      "group": "src/Exports/google_sheet_test"
+    },
+    {
+      "key": "src/Exports/sd",
+      "category": "Export",
+      "location": "12 13168.999999999987",
+      "isGroup": true
+    },
+    {
+      "key": "3460a0c3-18dc-4471-a7cb-07bf5cf6de78",
+      "category": "Empty",
+      "group": "src/Exports/sd"
+    },
+    {
+      "key": "src/Exports/test_s3",
+      "category": "Export",
+      "location": "12 13230.999999999987",
+      "isGroup": true
+    },
+    {
+      "key": "78193f0d-3b3b-4c84-aa94-4391520719a0",
+      "category": "Empty",
+      "group": "src/Exports/test_s3"
+    },
+    {
+      "key": "src/Exports/testbq123",
+      "category": "Export",
+      "location": "12 13292.999999999995",
+      "isGroup": true
+    },
+    {
+      "key": "2078bd67-9213-4a85-bb0a-c8e4f45bdc4b",
+      "category": "Empty",
+      "group": "src/Exports/testbq123"
+    },
+    {
+      "key": "src/Exports/xlsx_test",
+      "category": "Export",
+      "location": "392.0456949966159 7578.9999999999945",
+      "isGroup": true
+    },
+    {
+      "key": "src/Exports/xlsx_test/first_google_ads___ad_groups",
+      "category": "Export",
+      "isGroup": false,
+      "group": "src/Exports/xlsx_test"
+    },
+    {
+      "key": "src/Exports/xlsx_test/test_braulio___Chat_Sheet1",
+      "category": "Export",
+      "isGroup": false,
+      "group": "src/Exports/xlsx_test"
+    },
+    {
+      "key": "src/Visualizations/Widgets/2f52abfd-3636-4ae2-b1bf-4aa0eb44f3bb",
+      "category": "Widget",
+      "location": "380.0456949966159 4336.000000000016",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/3ed6c896-e1ff-4467-a818-7873fd374262",
+      "category": "Widget",
+      "location": "380.0456949966159 1608.0000000000014",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/4c3aea07-3f78-4444-82c0-91b4d4e3b972",
+      "category": "Widget",
+      "location": "380.0456949966159 1680.0000000000018",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/4c3aea07_3f78_4444_82c0_91b4d4e3b972___Copy",
+      "category": "Widget",
+      "location": "380.0456949966159 1752.0000000000018",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/4d61dcb9-a832-4def-9cd2-9259d61d3d1b",
+      "category": "Widget",
+      "location": "380.0456949966159 1824.0000000000018",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/5aac40e3-92bf-453e-92d1-a2407ba623b1",
+      "category": "Widget",
+      "location": "380.0456949966159 330",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/6328eed9-d656-40dc-afbf-4abafa716a9a",
+      "category": "Widget",
+      "location": "380.0456949966159 402",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/65a49d4c-aad9-4078-9fdc-ba50712075d6",
+      "category": "Widget",
+      "location": "380.0456949966159 1896.0000000000018",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/65a49d4c_aad9_4078_9fdc_ba50712075d6___Copy",
+      "category": "Widget",
+      "location": "380.0456949966159 1968.0000000000018",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/6a4c7d94-127c-4c49-bced-21c99ffba6bf",
+      "category": "Widget",
+      "location": "380.0456949966159 474",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/6f23fa7b-911c-457b-a902-4e1640f5cd6c",
+      "category": "Widget",
+      "location": "380.0456949966159 2040.0000000000018",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/6f23fa7b_911c_457b_a902_4e1640f5cd6c___Copy",
+      "category": "Widget",
+      "location": "380.0456949966159 2112.000000000002",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/703792c4-3255-4d48-b27b-f99f9c761213",
+      "category": "Widget",
+      "location": "380.0456949966159 2184",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/703792c4_3255_4d48_b27b_f99f9c761213___Copy",
+      "category": "Widget",
+      "location": "380.0456949966159 2256",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/7baebfdf-c3f0-4c4f-b207-1f0521460bdb",
+      "category": "Widget",
+      "location": "380.0456949966159 2328.000000000002",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/7baebfdf_c3f0_4c4f_b207_1f0521460bdb___Copy",
+      "category": "Widget",
+      "location": "380.0456949966159 2400.000000000002",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/7ecc7614-b0b2-4f7d-8fa3-8511655e6e0f",
+      "category": "Widget",
+      "location": "380.0456949966159 2472",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/7ecc7614_b0b2_4f7d_8fa3_8511655e6e0f___Copy",
+      "category": "Widget",
+      "location": "380.0456949966159 2544.0000000000055",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/8988d038-1bfd-4ba0-b978-f51338b6835d",
+      "category": "Widget",
+      "location": "380.0456949966159 2616.000000000011",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/8988d038_1bfd_4ba0_b978_f51338b6835d___Copy",
+      "category": "Widget",
+      "location": "380.0456949966159 2688.0000000000127",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/9a4a086d-5890-4ca0-9b32-502755d6d90b",
+      "category": "Widget",
+      "location": "380.0456949966159 2760.0000000000146",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/Adding a title to see if it works",
+      "category": "Widget",
+      "location": "380.0456949966159 2832.0000000000127",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/ISBN",
+      "category": "Widget",
+      "location": "380.0456949966159 546",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/Widget_Interactions_by_Type",
+      "category": "Widget",
+      "location": "380.0456949966159 618",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/Widget_Interactions_per_Month__by_Type",
+      "category": "Widget",
+      "location": "380.0456949966159 690",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/ab73ad94-41b8-40f4-aea6-005dfce95661",
+      "category": "Widget",
+      "location": "380.0456949966159 2904.0000000000127",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/ab73ad94_41b8_40f4_aea6_005dfce95661___Copy",
+      "category": "Widget",
+      "location": "380.0456949966159 2976.0000000000146",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/b9553ae0-658b-4787-92bf-c3e7dbc0722d",
+      "category": "Widget",
+      "location": "380.0456949966159 3048.0000000000146",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/b9553ae0_658b_4787_92bf_c3e7dbc0722d___Copy",
+      "category": "Widget",
+      "location": "380.0456949966159 3120.0000000000146",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/c89d4219-ff02-4167-9d8d-c9434568c3bf",
+      "category": "Widget",
+      "location": "380.0456949966159 3192.0000000000146",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/cc51f78e-cada-448c-ad57-1b79d1c6c01d",
+      "category": "Widget",
+      "location": "380.0456949966159 957.9999999999995",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/d9795ea1-8b17-4131-bb5b-4697889d2d01",
+      "category": "Widget",
+      "location": "380.0456949966159 3264.0000000000146",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/d9795ea1_8b17_4131_bb5b_4697889d2d01___Copy",
+      "category": "Widget",
+      "location": "380.0456949966159 4408.000000000016",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/eeced678-5b40-4364-8131-04f043496477",
+      "category": "Widget",
+      "location": "380.0456949966159 3336.0000000000164",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/eeced678_5b40_4364_8131_04f043496477___Copy",
+      "category": "Widget",
+      "location": "380.0456949966159 3408.0000000000164",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/fd9b4f3b-77c4-474e-a7ff-0bcee75ad7c0",
+      "category": "Widget",
+      "location": "380.0456949966159 3480.0000000000164",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/fd9b4f3b_77c4_474e_a7ff_0bcee75ad7c0___Copy",
+      "category": "Widget",
+      "location": "380.0456949966159 3552.0000000000146",
+      "isGroup": false
+    },
+    {
+      "key": "src/Visualizations/Widgets/widget_created_from_list_view",
+      "category": "Widget",
+      "location": "380.0456949966159 3624.0000000000164",
+      "isGroup": false
+    }
+  ]
+}
